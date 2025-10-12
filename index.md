@@ -1,11 +1,5 @@
----
-layout: default
----  
-
-
 (914) 222-1527 | bsreeni7@uw.edu | 📍 12th Ave NE, Seattle WA 98105
 
-<br>
 
 ### Coursework
 
@@ -16,6 +10,7 @@ Remote Sensing for Environmental Health
 Human Rights Law in Culture and Practice  
 Politics and Law of International Human Rights  
 The Supreme Court and American Political Development  
+
 
 ### Accolades
 
@@ -35,7 +30,6 @@ Film Analysis: 12 Angry Men
 
 
 ### Experience
-
 
 #### Ignite Fellow, Teach for America, 02/2025 - present
 
