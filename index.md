@@ -17,6 +17,7 @@ _Writing Samples_
 
 _Coursework_  
 Women in Leadership    
+The American Presidency  
 Technology, Ethics, Policy and Law  
 Ethics in Algorithmic Decision Making  
 Remote Sensing for Environmental Health  
