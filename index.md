@@ -1,6 +1,6 @@
 (914) 222 1527 | bsreeni7@uw.edu | 📍 12th Ave NE, Seattle WA 98105
 
-__University of Washington__, Seattle WA, 2024-2028 
+__University of Washington__, Seattle WA, 2024-2028   
 Double Major: Political Science and Law, Societies & Justice (LSJ)   
 Minor: Data Science   
 Dean's list: Spring 2025, Summer 2025    
@@ -18,10 +18,12 @@ _Skills_
 R, R Studio, Canva, Adobe Creative Cloud, Google Earth Engine, Microsoft 365, Google Workspace, Pencil Spaces, Political Election Campaign Events & Logistics Management, Debate Coach, Problem Solving, Policy Anaysis, Critical Thinking
 
 _Writing Samples_   
-<a href="./html/film.html" target="_blank">Film Analysis: 12 Angry Men</a>
-<a href="./html/reflections.html" target="_blank">Personal Reflections from Lessons in Leadership</a>
-<a href="./html/reform.html" target="_blank">Comprehensive Reform Strategy to Reduce Police Use of Force</a>
+<a href="./html/film.html" target="_blank">Film Analysis: 12 Angry Men</a>   
+<a href="./html/reflections.html" target="_blank">Personal Reflections from Lessons in Leadership</a>   
+<a href="./html/reform.html" target="_blank">Comprehensive Reform Strategy to Reduce Police Use of Force</a>   
 
+__Delta Kappa Delta Sorority, Nu Chapter__, Associate 10/2025 - present   
+__Women in Law__, College Club Member, 10/2025 - present   
 
 _Work Experience_  
 #### Ignite Fellow, Teach for America, 02/2025 - present
