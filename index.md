@@ -22,7 +22,8 @@ _Writing Samples_
 <a href="./html/reflections.html" target="_blank">Personal Reflections from Lessons in Leadership</a>   
 <a href="./html/reform.html" target="_blank">Comprehensive Reform Strategy to Reduce Police Use of Force</a>   
 
-__Delta Kappa Delta Sorority__, Nu Chapter, Associate 10/2025 - present   
+_Extracurricular_  
+__Delta Kappa Delta Sorority__, Nu Chapter, Associate, 10/2025 - present   
 __Women in Law Society__, Student Organization, Member, 10/2025 - present   
 
 _Work Experience_  
