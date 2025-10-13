@@ -15,15 +15,15 @@ Politics and Law of International Human Rights
 The Supreme Court and American Political Development  
 
 _Skills_  
-R, R Studio, Canva, Adobe Creative Cloud, Google Earth Engine, Microsoft 365, Google Workspace, Pencil Spaces, Political Election Campaign Events & Logistics Management, Debate Coach, Problem Solving, Policy Anaysis, Critical Thinking
+R, R Studio, Canva, Adobe Creative Cloud, Google Earth Engine, Microsoft 365, Google Workspace, Pencil Spaces, Political Election Campaign Events & Logistics Management, Debate Coach, Problem Solving, Policy Analysis, Critical Thinking  
 
 _Writing Samples_   
 <a href="./html/film.html" target="_blank">Film Analysis: 12 Angry Men</a>   
 <a href="./html/reflections.html" target="_blank">Personal Reflections from Lessons in Leadership</a>   
 <a href="./html/reform.html" target="_blank">Comprehensive Reform Strategy to Reduce Police Use of Force</a>   
 
-__Delta Kappa Delta Sorority, Nu Chapter__, Associate 10/2025 - present   
-__Women in Law__, College Club Member, 10/2025 - present   
+__Delta Kappa Delta Sorority__, Nu Chapter, Associate 10/2025 - present   
+__Women in Law Society__, Student Organization, Member, 10/2025 - present   
 
 _Work Experience_  
 #### Ignite Fellow, Teach for America, 02/2025 - present
