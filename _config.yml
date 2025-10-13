@@ -1,9 +1,6 @@
 theme: jekyll-theme-modernist
 show_downloads: false
 
-include:
-  - assets/css/custom.css
-
 title: "Brinda Sreenivas"
 
 description: "Sophomore at University of Washington pursuing double major in Law, Societies & Justice (LSJ) and Political Science, with a minor in Data Science"
