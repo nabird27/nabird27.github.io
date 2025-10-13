@@ -1,18 +1,9 @@
 (914) 222 1527 | bsreeni7@uw.edu | 📍 12th Ave NE, Seattle WA 98105
 
 __University of Washington__, Seattle WA, 2024-2028   
-Double Major: Political Science and Law, Societies & Justice (LSJ)   
+Double Major: Law, Societies & Justice (LSJ) and Political Science      
 Minor: Data Science   
 Dean's list: Spring 2025, Summer 2025    
-
-_Coursework_  
-Women in Leadership  
-Technology, Ethics, Policy and Law  
-Ethics in Algorithmic Decision Making  
-Remote Sensing for Environmental Health  
-Human Rights Law in Culture and Practice  
-Politics and Law of International Human Rights  
-The Supreme Court and American Political Development  
 
 _Skills_  
 R, R Studio, Canva, Adobe Creative Cloud, Google Earth Engine, Microsoft 365, Google Workspace, Pencil Spaces, Political Election Campaign Events & Logistics Management, Debate Coach, Problem Solving, Policy Analysis, Critical Thinking  
@@ -20,7 +11,18 @@ R, R Studio, Canva, Adobe Creative Cloud, Google Earth Engine, Microsoft 365, Go
 _Writing Samples_   
 <a href="./html/film.html" target="_blank">Film Analysis: 12 Angry Men</a>   
 <a href="./html/reflections.html" target="_blank">Personal Reflections from Lessons in Leadership</a>   
+<a href="./html/lbj.html" target="_blank">LBJ and Nixon: Compare Judicial Confirmation Process</a>   
+<a href="./html/ihl.html" target="_blank">International Humanitarian Law and Securing Right to Life</a>   
 <a href="./html/reform.html" target="_blank">Comprehensive Reform Strategy to Reduce Police Use of Force</a>   
+
+_Coursework_  
+Women in Leadership    
+Technology, Ethics, Policy and Law  
+Ethics in Algorithmic Decision Making  
+Remote Sensing for Environmental Health  
+Human Rights Law in Culture and Practice  
+Politics and Law of International Human Rights  
+The Supreme Court and American Political Development  
 
 _Extracurricular_  
 __Delta Kappa Delta Sorority__, Nu Chapter, Associate, 10/2025 - present   
