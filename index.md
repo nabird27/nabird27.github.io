@@ -1,7 +1,12 @@
 (914) 222-1527 | bsreeni7@uw.edu | 📍 12th Ave NE, Seattle WA 98105
 
+__University of Washington__, Seattle WA
 
-### Coursework
+Double Major: Law, Societies & Justice, and Political Science  
+Minor: Data Science  
+Dean's list: Spring 2025, Summer 2025
+
+_Coursework_  
 
 Women in Leadership  
 Technology, Ethics, Policy and Law  
@@ -11,25 +16,19 @@ Human Rights Law in Culture and Practice
 Politics and Law of International Human Rights  
 The Supreme Court and American Political Development  
 
-
-### Accolades
-
-Dean's List - Spring 2025, Summer 2025  
-
-
-### Skills
+_Skills_  
 
 R, R Studio, Canva, Adobe Creative Cloud, Google Earth Engine, Microsoft Office Suite, Pencil Spaces, Political Election Campaign Events & Logistics Management
 
 
-### Writing
+_Writing_  
 
 Personal Reflections from Lessons in Leadership  
 Comprehensive Strategy to Reduce Police Use of Force  
 Film Analysis: 12 Angry Men  
 
 
-### Experience
+_Work Experience_  
 
 #### Ignite Fellow, Teach for America, 02/2025 - present
 
