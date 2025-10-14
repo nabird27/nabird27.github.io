@@ -1,12 +1,12 @@
 (914) 222 1527 | bsreeni7@uw.edu | 📍 12th Ave NE, Seattle WA 98105
 
-__University of Washington__, Seattle WA, 2024-2028   
-Double Major: Law, Societies & Justice (LSJ) and Political Science      
+__University of Washington__, Seattle WA, Fall 2024 - Spring 2028   
+Double major: Law, Societies & Justice (LSJ) and Political Science      
 Minor: Data Science   
 Dean's list: Spring 2025, Summer 2025    
 
 _Skills_  
-R, R Studio, Canva, Adobe Creative Cloud, Google Earth Engine, Microsoft 365, Google Workspace, Pencil Spaces, Political Election Campaign Events & Logistics Management, Debate Coach, Problem Solving, Policy Analysis, Critical Thinking  
+R, R Studio, Canva, Adobe Creative Cloud, Google Earth Engine, Pencil Spaces, Microsoft 365, Google Workspace, Academic Essay Writing, Problem Solving, Debate Coach, Tutor, Critical Thinking, Policy Analysis, Political Election Campaign Events & Logistics Management, Office Administration   
 
 _Writing Samples_   
 <a href="./html/film.html" target="_blank">Film Analysis: 12 Angry Men</a>   
@@ -46,8 +46,8 @@ _Work Experience_
 
 #### Hope Alliance, Volunteer, 07/2023 - 06/2024
 
-*  Interactions with and assisting victims of family and sexual violence taught me resilience.  
-*  Assisted office manager and staff with administrative paperwork and front office tasks.  
+*  Interactions with victims of sexual assault and domestic violence, and advocating for them helped me become resilient.     
+*  Assisted the office manager and staff with administrative paperwork and front office tasks.  
 
 
 #### Kumon Math & Reading Center, Tutor, 09/2022 - 05/2023
