@@ -1,4 +1,4 @@
-(914) 222 1527 | bsreeni7@uw.edu | 📍 12th Ave NE, Seattle WA 98105
+(914) 222 1527 | bsreeni7@uw.edu | 📍 4722 12th Ave NE, Seattle WA 98105
 
 __University of Washington__, Seattle WA, Fall 2024 - Spring 2028   
 Major in Political Science      
