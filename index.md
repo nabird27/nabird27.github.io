@@ -1,9 +1,9 @@
 (914) 222 1527 | bsreeni7@uw.edu | 📍 12th Ave NE, Seattle WA 98105
 
 __University of Washington__, Seattle WA, Fall 2024 - Spring 2028   
-Double major: Law, Societies & Justice (LSJ) and Political Science      
-Minor: Data Science   
-Dean's list: Spring 2025, Summer 2025    
+Major in Political Science      
+Pursuing second major in Law, Societies and Justice, and minor in Data Science   
+Dean's list: Spring 2025, Summer 2025, Autumn 2025   
 
 _Skills_  
 R, R Studio, Canva, Adobe Creative Cloud, Google Earth Engine, Pencil Spaces, Microsoft 365, Google Workspace, Academic Essay Writing, Problem Solving, Debate Coach, Tutor, Critical Thinking, Policy Analysis, Election Campaign Events & Logistics Management, Office Administration   
