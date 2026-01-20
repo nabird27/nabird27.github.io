@@ -6,7 +6,8 @@ Pursuing second major in Law, Societies and Justice, and minor in Data Science
 Dean's list: Spring 2025, Summer 2025, Autumn 2025   
 
 _Skills_  
-R, R Studio, Canva, Adobe Creative Cloud, Google Earth Engine, Pencil Spaces, Microsoft 365, Google Workspace, Academic Essay Writing, Problem Solving, Debate Coach, Tutor, Critical Thinking, Policy Analysis, Election Campaign Events & Logistics Management, Office Administration   
+Policy Analysis, Election Campaign Events & Logistics Management, Critical Thinking, Problem Solving, Academic Essay Writing    
+R, R Studio, Java, Canva, Adobe Creative Cloud, Google Earth Engine, Pencil Spaces, Microsoft 365, Google Workspace      
 
 _Writing Samples_   
 <a href="./html/film.html" target="_blank">Film Analysis: 12 Angry Men</a>   
