@@ -1,8 +1,7 @@
 theme: jekyll-theme-modernist
 show_downloads: true
-github:
-  zip_url: https://nabird27.github.io/files/Brinda_Sreenivas_Resume.pdf
+resume: https://nabird27.github.io/files/Resume-Brinda-Sreenivas.pdf
 
 title: "Brinda Sreenivas"
 
-description: "Sophomore at University of Washington pursuing double major in Law, Societies & Justice (LSJ) and Political Science, with a minor in Data Science"
+description: "Junior at University of Washington pursuing<br>double major in Law, Societies & Justice (LSJ)<br>and Political Science, with a minor in Data Science"  

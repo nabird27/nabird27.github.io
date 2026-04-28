@@ -1,58 +1,86 @@
-+1 914 222 1527 | bsreeni7@uw.edu | 📍 University District, Seattle WA 98105
+bsreeni7@uw.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📍 Seattle WA  
 
 __University of Washington__, Seattle WA, 2024-2028   
-_Major:_ Political Science   
-_Minor:_ Data Science  
-_Second Major:_ Law, Societies and Justice (LSJ)  
-_Current cumulative GPA:_ 3.51/4.00    
-_Dean's list:_ Spring, Summer, Autumn 2025    
+Bachelor of Arts in Political Science and Law, Societies and Justice (LSJ). Minor in Data Science  
+Expected to graduate in Spring 2028  
+  
+_GPA_: 3.56/4.0&nbsp;&nbsp;&nbsp;_LSJ Major GPA_: 3.72/4.0  
 
-_Coursework_  
-Women in Leadership  
-The American Presidency  
-Crime, Politics and Justice  
-Introduction to Data Science  
-Technology, Ethics, Policy and Law  
-Ethics in Algorithmic Decision Making  
-Politics and Law of International Human Rights  
-The Supreme Court and American Political Development  
+_Annual Dean's List_: 2025-2026  
+_Quarterly Dean's List_: Spring, Summer, Autumn 2025  
+
+_Coursework_
+<table>
+  <tr>
+    <td>Data Privacy</td>
+    <td>Women in Leadership</td>
+  </tr>
+  <tr>
+    <td>The American Presidency</td>
+    <td>United States Congress</td>
+  </tr>
+  <tr>
+    <td>Technology, Ethics, Policy and Law</td>
+    <td>Ethics in Algorithmic Decision-Making</td>
+  </tr>
+  <tr>
+    <td>Global Environmental Politics</td>
+    <td>Remote Sensing for Environmental Health</td>
+  </tr>
+  <tr>
+    <td>The Supreme Court and American Political Development</td>
+    <td>Crime, Politics and Justice</td>
+  </tr>
+  <tr>
+    <td>Politics and Law of International Human Rights</td>
+    <td> Human Rights Law in Culture and Practice</td>
+  </tr>
+  
+</table>
+
+_Strengths_  
+Active Listening, Critical Thinking, Problem Solving, Adaptability, Empathy & Interpersonal Communication, Team Collaboration  
 
 _Skills_  
-Essay Writing, Problem Solving, Critical Thinking, Policy Analysis, Debate Coach, Election Campaign & Logistics Management, Google Workspace, Microsoft 365, Pencil Spaces    
+Data & Policy Analysis, Essay Writing, Tutoring, Election Campaign & Logistics Management, Google Workspace, Microsoft 365, Pencil Spaces, R, R Studio  
 
-_Writing Samples_   
-<a href="./html/reflections.html" target="_blank">Personal Reflections from Lessons in Leadership</a>   
-<a href="./html/lbj.html" target="_blank">LBJ and Nixon: Compare Judicial Confirmation Process</a>   
-<a href="./html/reform.html" target="_blank">Comprehensive Reform Strategy to Reduce Police Use of Force</a>   
+_Selected Academic Writing_   
+<a href="./html/lbj.html" target="_blank">LBJ and Nixon: Compare Judicial Confirmation Process</a>  
+<a href="./html/privacy_urlshortening.html" target="_blank">Exploitation of URL Shorteners in Mobile Phishing Attacks</a>    
+<a href="./html/sentencing.html" target="_blank">Ethical Decision Making in Criminal Sentencing</a>   
+<a href="./html/reform.html" target="_blank">A Comprehensive Reform Strategy to Reduce Police Use of Force</a>  
+<a href="./html/interpretation.html" target="_blank">Apocalypse and Interpretation</a>  
+<a href="./html/fairness.html" target="_blank">Statistical Definition of Fairness</a>   
+<a href="./html/wwf.html" target="_blank">World Wildlife Fund (WWF) and Biodiversity</a>  
+<a href="./html/reflections.html" target="_blank">Personal Reflections from Lessons in Leadership</a>  
+<a href="./html/upr.html" target="_blank">UPR: A Critical Analysis of India's Fourth Cycle</a>   
+<a href="./html/humanrights.html" target="_blank">The Universality of Human Rights</a>   
+<a href="./html/ihl.html" target="_blank">Are we better off without the IHL in Securing the Right to Life?</a>   
 
 _Work Experience_  
-__Ignite Fellow, Teach for America__, Seattle WA, 02/2025 - present  
-* Delivered over 40 hours of tutoring each quarter to 4th grade students. Results showed average improvement of 20% on standardized tests and 95% success rate in meeting academic goals set by the Ignite program co-ordinator.  
-* Monitored student learning progress and reported findings to Ignite program co-ordinator, contributing to the program success with a 100% attendance rate for scheduled sessions.  
+__Ignite Fellow & UW Ambassador, Teach for America__, Seattle WA, 02/2025 - present  
+* Leading a 12-week intensive SAT Reading boot-camp for 10 students at Seagoville High School. Designed personalized lesson plans focused on evidence-based reading, vocabulary in context, and command of evidence to boost practice scores by an average of 80 points through strategic test-taking methodologies, timed drills, and comprehensive error analysis.  
+* Delivered over 40 hours of tutoring each quarter to 4th grade students. Results showed average improvement of 20% on standardized tests and 95% success rate in meeting academic goals set by the Ignite program coordinator.  
 * Adapted lesson plans based on individual learning needs, ensuring students received tailored instruction that helped them achieve academic success with a 90% satisfaction rate from parents and students.  
 
-__Volunteer, Hope Alliance__, Austin TX, 07/2023 - 06/2024
+__Volunteer, Hope Alliance__, Austin TX, 7/2023 - 6/2024
 * Texas Office of Attorney General certified advocate for victims of sexual violence.  
-* Assisted victims of domestic abuse and sexual violence. Strengthened my resilience.  
-* Assisted office manager and staff with administrative paperwork and front office tasks.  
+* Listened carefully to victims of domestic abuse and sexual violence. Explained solutions and legal options maintaining a calm and professional approach. These experiences strengthened my empathy, emotional control and resilience.   
 
-__Tutor, Kumon Math & Reading Center__, Austin TX, 09/2022 - 05/2023  
-* Tutored K-7 students, graded assignments and provided performance feedback.  
-
-__Volunteer, BETO for Texas Gubernatorial Campaign__, Austin TX, 07/2022 - 05/2023  
+__Volunteer, BETO for Texas Gubernatorial Campaign__, Williamson County TX, 7/2022 - 5/2023  
 * Setup Round Rock field office, and recruited volunteers to campaign in Williamson County.  
 * Facilitated voting rights workshops, get out the vote, voter registration and early voting drives.  
-* Campaigned for school campus safety measures, women's rights and teachers’ compensation.  
-* Maintained office logistics and reported weekly inventory reports to the campaign officials.
+* Maintained office logistics and reported weekly inventory reports to the campaign officials.  
+* Campaigned for school campus safety measures and teachers compensation.  
 * Organized campaign meetings with voters in Williamson County, Texas.  
 
-__Staff, Parkland Meadows Retirement Home__, Austin TX, 04/2022 - 07/2022
-* Demonstrated active listening by giving residents my full attention during conversations and responding thoughtfully and compassionately to their questions and concerns, fostering a sense of connection and respect.  
-* Prepared dining hall for meal service, and cleaned up after. Helped residents with meal orders and other needs they might have during meal time.
+__Staff, Sagora Senior Living (Parkwood Meadows)__, Round Rock TX, 4/2022 - 7/2022
+* Listened to residents with full attention, and responded thoughtfully and compassionately to questions and concerns, fostering a sense of connection and respect.  
+* Prepared dining hall for meal service, and cleaned up after. Helped residents with meal orders and other needs during meal time.
 
 _Extracurricular_  
-__Delta Kappa Delta Sorority__, Nu Chapter, Associate, 10/2025 - present   
-__Women in Law Society__, Student Organization, Member, 10/2025 - present  
-__Resident Council Students Association__, Council Member, 02/2024 - 6/2025  
+__Women in Law Society__, Member, 10/2025 - present   
+__Delta Kappa Delta Sorority__, Nu Chapter, Member, 10/2025 - present   
+__Resident Council Students Association__, Council Member, 10/2024 - 6/2025   
 
 ---   
