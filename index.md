@@ -1,7 +1,8 @@
 +1 914 222 1527 | bsreeni7@uw.edu | 📍 University District, Seattle WA 98105
 
 __University of Washington__, Seattle WA, 2024-2028   
-_Major:_ Political Science    _Minor:_ Data Science  
+_Major:_ Political Science   
+_Minor:_ Data Science  
 _Second Major:_ Law, Societies and Justice (LSJ)  
 _Current cumulative GPA:_ 3.51/4.00    
 _Dean's list:_ Spring, Summer, Autumn 2025    
