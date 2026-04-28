@@ -1,7 +1,7 @@
-Brinda Sreenivas | 914 222 1527 | bsreeni7@uw.edu | 📍 12th Ave NE, Seattle WA 98105
+914 222 1527 | bsreeni7@uw.edu | 📍 University District, Seattle WA 98105
 
 __University of Washington__, Seattle WA, 2024-2028   
-College Sophomore majoring in Political Science. Pursuing double-major in Law, Societies and Justice (LSJ) and a minor in Data Science. Current cumulative GPA: 3.51/4.00    
+College Sophomore majoring in Political Science. Pursuing second major in Law, Societies and Justice (LSJ), and a minor in Data Science. Current cumulative GPA: 3.51/4.00    
  
 Dean's list: Spring, Summer, Autumn 2025    
 
@@ -19,8 +19,8 @@ _Skills_
 Essay Writing, Problem Solving, Critical Thinking, Policy Analysis, Debate Coach, Election Campaign & Logistics Management, Google Workspace, Microsoft 365, Pencil Spaces    
 
 _Writing Samples_   
-<a href="./html/film.html" target="_blank">Film Analysis: 12 Angry Men</a>   
 <a href="./html/reflections.html" target="_blank">Personal Reflections from Lessons in Leadership</a>   
+<a href="./html/lbj.html" target="_blank">LBJ and Nixon: Compare Judicial Confirmation Process</a>   
 <a href="./html/reform.html" target="_blank">Comprehensive Reform Strategy to Reduce Police Use of Force</a>   
 
 _Extracurricular_  
