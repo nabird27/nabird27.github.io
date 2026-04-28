@@ -1,11 +1,12 @@
 +1 914 222 1527 | bsreeni7@uw.edu | 📍 University District, Seattle WA 98105
 
 __University of Washington__, Seattle WA, 2024-2028   
-_Major:_ Political Science   
+Bachelor of Arts in Political Science   
 _Minor:_ Data Science  
 _Second Major:_ Law, Societies and Justice (LSJ)  
-_Current cumulative GPA:_ 3.51/4.00    
-_Dean's list:_ Spring, Summer, Autumn 2025    
+_GPA:_ 3.51/4.00&nbsp;&nbsp;&nbsp;&nbsp;_Dean's list:_ Spring, Summer, Autumn 2025  
+
+Expected to graduate in May 2028
 
 _Coursework_  
 Women in Leadership  
@@ -36,14 +37,11 @@ __Volunteer, Hope Alliance__, Austin TX, 7/2023 - 6/2024
 * Assisted victims of domestic abuse and sexual violence. Strengthened my resilience.  
 * Assisted office manager and staff with administrative paperwork and front office tasks.  
 
-__Tutor, Kumon Math & Reading Center__, Austin TX, 9/2022 - 5/2023  
-* Tutored K-7 students, graded assignments and provided performance feedback.  
-
 __Volunteer, BETO for Texas Gubernatorial Campaign__, Austin TX, 7/2022 - 5/2023  
 * Setup Round Rock field office, and recruited volunteers to campaign in Williamson County.  
 * Facilitated voting rights workshops, get out the vote, voter registration and early voting drives.  
-* Campaigned for school campus safety measures, women's rights and teachers’ compensation.  
-* Maintained office logistics and reported weekly inventory reports to the campaign officials.
+* Maintained office logistics and reported weekly inventory reports to the campaign officials.  
+* Campaigned for school campus safety measures and teachers compensation.  
 * Organized campaign meetings with voters in Williamson County, Texas.  
 
 __Staff, Parkland Meadows Retirement Home__, Austin TX, 4/2022 - 7/2022
@@ -51,8 +49,8 @@ __Staff, Parkland Meadows Retirement Home__, Austin TX, 4/2022 - 7/2022
 * Prepared dining hall for meal service, and cleaned up after. Helped residents with meal orders and other needs they might have during meal time.
 
 _Extracurricular_  
+__Women in Law Society__, Member, 10/2025 - present 
 __Delta Kappa Delta Sorority__, Nu Chapter, Associate, 10/2025 - present   
-__Women in Law Society__, Student Organization, Member, 10/2025 - present  
 __Resident Council Students Association__, Council Member, 02/2024 - 6/2025  
 
 ---   
