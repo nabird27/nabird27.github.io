@@ -39,7 +39,7 @@ _Selected Academic Writing_
 
 _Work Experience_  
 __Ignite Fellow & UW Ambassador, Teach for America__, Seattle WA, 02/2025 - present  
-* Leading a 12-week intensive SAT Reading boot-camp for 4 students at Seagoville High School. Designed personalized lesson plans focused on evidence-based reading, vocabulary in context, and command of evidence to boost practice scores by an average of 80 points through strategic test-taking methodologies, timed drills, and comprehensive error analysis.  
+* Leading a 12-week intensive SAT Reading boot-camp for 10 students at Seagoville High School. Designed personalized lesson plans focused on evidence-based reading, vocabulary in context, and command of evidence to boost practice scores by an average of 80 points through strategic test-taking methodologies, timed drills, and comprehensive error analysis.  
 * Delivered over 40 hours of tutoring each quarter to 4th grade students. Results showed average improvement of 20% on standardized tests and 95% success rate in meeting academic goals set by the Ignite program coordinator.  
 * Adapted lesson plans based on individual learning needs, ensuring students received tailored instruction that helped them achieve academic success with a 90% satisfaction rate from parents and students.  
 
