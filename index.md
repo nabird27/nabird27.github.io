@@ -9,13 +9,14 @@ _Annual Dean's List:_ 2026 &nbsp;&nbsp; _Quarterly Dean's List:_ Spring, Summer,
 Expected to graduate in Dec 2027   
 
 _Relevant Coursework_  
-| Political Science | Law, Societies and Justice (LSJ) |
-|:---|:---|   
-| United States Congress | Ethics in Law and Justice |
-| The American Presidency | Technology, Ethics, Policy and Law |
-| Global Environmental Politics | Ethics in Algorithmic Decision-Making |
-| Politics and Law of International Human Rights | Human Rights Law in Culture and Practice |
-| The Supreme Court and American Political Development | Crime, Politics and Justice |  
+
+Political Science | Law, Societies and Justice (LSJ)
+:---|:---
+United States Congress | Ethics in Law and Justice
+The American Presidency | Technology, Ethics, Policy and Law
+Global Environmental Politics | Ethics in Algorithmic Decision-Making
+Politics and Law of International Human Rights | Human Rights Law in Culture and Practice
+The Supreme Court and American Political Development | Crime, Politics and Justice
 
 _Strengths_  
 Active Listening, Critical Thinking, Problem Solving, Adaptability, Essay Writing, Empathy & Interpersonal Communication, Team Collaboration  
