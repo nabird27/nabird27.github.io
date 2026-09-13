@@ -60,7 +60,7 @@ __Staff, Parkland Meadows Retirement Home__, Austin TX, 4/2022 - 7/2022
 
 _Extracurricular_  
 __Women in Law Society__, Member, 10/2025 - present   
-__Delta Kappa Delta Sorority__, Nu Chapter, Associate, 10/2025 - present   
+__Delta Kappa Delta Sorority__, Nu Chapter, Member, 10/2025 - present   
 __Resident Council Students Association__, Council Member, 02/2024 - 6/2025   
 
 ---   
