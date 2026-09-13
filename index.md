@@ -1,47 +1,50 @@
-+1 914 222 1527 | bsreeni7@uw.edu | 📍 University District, Seattle WA 98105
+bsreeni7@uw.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📍 University District, Seattle WA 98105  
 
 __University of Washington__, Seattle WA, 2024-2028   
-Bachelor of Arts in Political Science   
+Bachelor of Arts in Political Science and Law, Societies and Justice (LSJ)  
 _Minor:_ Data Science  
-_Second Major:_ Law, Societies and Justice (LSJ)  
-_GPA:_ 3.51/4.00&nbsp;&nbsp;&nbsp;&nbsp;_Dean's list:_ Spring, Summer, Autumn 2025  
+_Overall GPA:_ 3.56/4.00 &nbsp;&nbsp; _LSJ Major GPA:_ 3.72/4.00  
+_Annual Dean's List:_ 2026 &nbsp;&nbsp; _Quarterly Dean's List:_ Spring, Summer, Autumn 2025  
 
-Expected to graduate in May 2028
+Expected to graduate in Dec 2027   
 
-_Coursework_  
-Women in Leadership  
-The American Presidency  
-Crime, Politics and Justice  
-Introduction to Data Science  
-Technology, Ethics, Policy and Law  
-Ethics in Algorithmic Decision Making  
-Politics and Law of International Human Rights  
-The Supreme Court and American Political Development  
+_Relevant Coursework_  
+| Political Science | Law, Societies and Justice (LSJ) |
+|:---|:---|   
+| United States Congress | Ethics in Law and Justice |
+| The American Presidency | Technology, Ethics, Policy and Law |
+| Global Environmental Politics | Ethics in Algorithmic Decision-Making |
+| Politics and Law of International Human Rights | Human Rights Law in Culture and Practice |
+| The Supreme Court and American Political Development | Crime, Politics and Justice |  
+
+_Strengths_  
+Active Listening, Critical Thinking, Problem Solving, Adaptability, Essay Writing, Empathy & Interpersonal Communication, Team Collaboration  
 
 _Skills_  
-Essay Writing, Problem Solving, Critical Thinking, Policy Analysis, Debate Coach, Election Campaign & Logistics Management, Google Workspace, Microsoft 365, Pencil Spaces    
+Data & Policy Analysis, Tutoring, Election Campaign & Logistics Management, Pencil Space, Google Workspace, Microsoft 365, R, R Studio  
 
-_Writing Samples_     
+
+_Selected Academic Writing_    
+<a href="./html/reflections.html" target="_blank">Personal Reflections from Lessons in Leadership</a>   
 <a href="./html/lbj.html" target="_blank">LBJ and Nixon: Compare Judicial Confirmation Process</a>   
+<a href="./html/interpretation.html" target="_blank">Apocalypse and Interpretation</a>   
 <a href="./html/sentencing.html" target="_blank">Ethical Decision Making in Criminal Sentencing</a>   
-<a href="./html/reform.html" target="_blank">A Comprehensive Reform Strategy to Reduce Police Use of Force</a>   
-<a href="./html/upr.html" target="_blank">UPR: A Critical Analysis of India's Fourth Cycle</a>   
+<a href="./html/reform.html" target="_blank">A Comprehensive Reform Strategy to Reduce Police Use of Force</a>  
 <a href="./html/fairness.html" target="_blank">Statistical Definition of Fairness</a>   
 <a href="./html/wwf.html" target="_blank">WWF and Biodiversity</a>   
-<a href="./html/interpretation.html" target="_blank">Apocalypse and Interpretation</a>   
+<a href="./html/upr.html" target="_blank">UPR: A Critical Analysis of India's Fourth Cycle</a>   
 <a href="./html/humanrights.html" target="_blank">The Universality of Human Rights</a>   
 <a href="./html/ihl.html" target="_blank">Are we better off without the IHL in Securing the Right to Life?</a>   
 
 _Work Experience_  
-__Ignite Fellow, Teach for America__, Seattle WA, 02/2025 - present  
-* Delivered over 40 hours of tutoring each quarter to 4th grade students. Results showed average improvement of 20% on standardized tests and 95% success rate in meeting academic goals set by the Ignite program co-ordinator.  
-* Monitored student learning progress and reported findings to Ignite program co-ordinator, contributing to the program success with a 100% attendance rate for scheduled sessions.  
+__Ignite Fellow & UW Ambassador, Teach for America__, Seattle WA, 02/2025 - present  
+* Leading a 12-week intensive SAT Reading boot-camp for 4 students at Seagoville High School. Designed personalized lesson plans focused on evidence-based reading, vocabulary in context, and command of evidence to boost practice scores by an average of 80 points through strategic test-taking methodologies, timed drills, and comprehensive error analysis.  
+* Delivered over 40 hours of tutoring each quarter to 4th grade students. Results showed average improvement of 20% on standardized tests and 95% success rate in meeting academic goals set by the Ignite program coordinator.  
 * Adapted lesson plans based on individual learning needs, ensuring students received tailored instruction that helped them achieve academic success with a 90% satisfaction rate from parents and students.  
 
 __Volunteer, Hope Alliance__, Austin TX, 7/2023 - 6/2024
 * Texas Office of Attorney General certified advocate for victims of sexual violence.  
-* Assisted victims of domestic abuse and sexual violence. Strengthened my resilience.  
-* Assisted office manager and staff with administrative paperwork and front office tasks.  
+* Listened carefully to victims of domestic abuse and sexual violence. Explained solutions and legal options maintaining a calm and professional approach. These experiences strengthened my empathy, emotional control and resilience.   
 
 __Volunteer, BETO for Texas Gubernatorial Campaign__, Austin TX, 7/2022 - 5/2023  
 * Setup Round Rock field office, and recruited volunteers to campaign in Williamson County.  
