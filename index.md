@@ -32,7 +32,7 @@ _Selected Academic Writing_
 <a href="./html/sentencing.html" target="_blank">Ethical Decision Making in Criminal Sentencing</a>   
 <a href="./html/reform.html" target="_blank">A Comprehensive Reform Strategy to Reduce Police Use of Force</a>  
 <a href="./html/fairness.html" target="_blank">Statistical Definition of Fairness</a>   
-<a href="./html/wwf.html" target="_blank">WWF and Biodiversity</a>   
+<a href="./html/wwf.html" target="_blank">World Wildlife Fund (WWF) and Biodiversity</a>   
 <a href="./html/upr.html" target="_blank">UPR: A Critical Analysis of India's Fourth Cycle</a>   
 <a href="./html/humanrights.html" target="_blank">The Universality of Human Rights</a>   
 <a href="./html/ihl.html" target="_blank">Are we better off without the IHL in Securing the Right to Life?</a>   
