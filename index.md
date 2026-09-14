@@ -6,7 +6,7 @@ _Minor:_ Data Science
 _Overall GPA:_ 3.56/4.00 &nbsp;&nbsp; _LSJ Major GPA:_ 3.72/4.00  
 _Annual Dean's List:_ 2026 &nbsp;&nbsp; _Quarterly Dean's List:_ Spring, Summer, Autumn 2025  
 
-Expected to graduate in Dec 2027   
+Expected to graduate in Spring 2028    
 
 _Relevant Coursework_  
 
