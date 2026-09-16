@@ -2,30 +2,46 @@ bsreeni7@uw.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📍 University
 
 __University of Washington__, Seattle WA, 2024-2028   
 Bachelor of Arts in Political Science and Law, Societies and Justice (LSJ)  
-_Minor:_ Data Science  
-_Quarterly Dean's List:_ Spring, Summer, Autumn 2025  
-_Annual Dean's List:_ 2025-2026  
-_Overall GPA:_ 3.56/4.0  
-_LSJ Major GPA:_ 3.72/4.0  
+_Minor_: Data Science  
 
-Expected to graduate in Spring 2028    
+_Overall GPA_: 3.56/4.0  
+_LSJ Major GPA_: 3.72/4.0  
 
-_Relevant Coursework_  
+_Annual Dean's List_: 2025-2026  
+_Quarterly Dean's List_: Spring, Summer, Autumn 2025  
 
-Law, Societies and Justice (LSJ) | Political Science  
-:---|:---
-Data Privacy | United States Congress  
-Ethics in Law and Justice | The American Presidency  
-Technology, Ethics, Policy and Law | Global Environmental Politics  
-Human Rights Law in Culture and Practice | Politics and Law of International Human Rights  
-Crime, Politics and Justice | The Supreme Court and American Political Development  
+Expected to graduate in Spring 2028  
 
-
-Data Science (minor) |  
-:---  | :---  
-Ethics in Algorithmic Decision-Making |  
-Remote Sensing for Environmental Health |   
-R Programming |  
+<table>
+  <tr>
+    <th colspan="2" align="left"><i>Relevant Coursework</i></th>
+  </tr>
+  <tr>
+    <td>Data Privacy</td>
+    <td>Women in Leadership</td>
+  </tr>
+  <tr>
+    <td>The American Presidency</td>
+    <td>United States Congress</td>
+  </tr>
+  <tr>
+    <td>Technology, Ethics, Policy and Law</td>
+    <td>Ethics in Algorithmic Decision-Making</td>
+  </tr>
+  <tr>
+    <td>Global Environmental Politics</td>
+    <td>Remote Sensing for Environmental Health</td>
+  </tr>
+  <tr>
+    <td>The Supreme Court and American Political Development</td>
+    <td>Crime, Politics and Justice</td>
+  </tr>
+  <tr>
+    <td>Politics and Law of International Human Rights</td>
+    <td> Human Rights Law in Culture and Practice</td>
+  </tr>
+  
+</table>
 
 _Strengths_  
 Active Listening, Critical Thinking, Problem Solving, Adaptability, Essay Writing, Empathy & Interpersonal Communication, Team Collaboration  
