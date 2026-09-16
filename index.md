@@ -3,8 +3,10 @@ bsreeni7@uw.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📍 University
 __University of Washington__, Seattle WA, 2024-2028   
 Bachelor of Arts in Political Science and Law, Societies and Justice (LSJ)  
 _Minor:_ Data Science  
-_Overall GPA:_ 3.56/4.00 &nbsp;&nbsp; _LSJ Major GPA:_ 3.72/4.00  
-_Annual Dean's List:_ 2026 &nbsp;&nbsp; _Quarterly Dean's List:_ Spring, Summer, Autumn 2025  
+_Quarterly Dean's List:_ Spring, Summer, Autumn 2025  
+_Annual Dean's List:_ 2025-2026  
+_Overall GPA:_ 3.56/4.00  
+_LSJ Major GPA:_ 3.72/4.00  
 
 Expected to graduate in Spring 2028    
 
