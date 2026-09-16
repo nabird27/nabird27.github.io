@@ -4,8 +4,8 @@ __University of Washington__, Seattle WA, 2024-2028
 Bachelor of Arts in Political Science and Law, Societies and Justice (LSJ). Minor in Data Science  
 Expected to graduate in Spring 2028  
 
-_LSJ Major GPA_: 3.72/4.0  
-_Overall GPA_: 3.56/4.0  
+_LSJ Major GPA_:  3.72/4.0  
+_Overall GPA_:  3.56/4.0  
 
 _Annual Dean's List_: 2025-2026  
 _Quarterly Dean's List_: Spring, Summer, Autumn 2025  
@@ -82,6 +82,6 @@ __Staff, Parkland Meadows Retirement Home__, Austin TX, 4/2022 - 7/2022
 _Extracurricular_  
 __Women in Law Society__, Member, 10/2025 - present   
 __Delta Kappa Delta Sorority__, Nu Chapter, Member, 10/2025 - present   
-__Resident Council Students Association__, Council Member, 02/2024 - 6/2025   
+__Resident Council Students Association__, Council Member, 10/2024 - 6/2025   
 
 ---   
