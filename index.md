@@ -10,8 +10,6 @@ _Overall GPA_: 3.56/4.0
 _Annual Dean's List_: 2025-2026  
 _Quarterly Dean's List_: Spring, Summer, Autumn 2025  
 
- 
-
 _Relevant Coursework_
 <table>
   <tr>
@@ -47,13 +45,12 @@ Active Listening, Critical Thinking, Problem Solving, Adaptability, Essay Writin
 _Skills_  
 Data & Policy Analysis, Tutoring, Election Campaign & Logistics Management, Pencil Space, Google Workspace, Microsoft 365, R, R Studio  
 
-
 _Selected Academic Writing_   
 <a href="./html/lbj.html" target="_blank">LBJ and Nixon: Compare Judicial Confirmation Process</a>  
 <a href="./html/privacy_urlshortening.html" target="_blank">Exploitation of URL Shorteners in Mobile Phishing Attacks</a>    
 <a href="./html/sentencing.html" target="_blank">Ethical Decision Making in Criminal Sentencing</a>   
 <a href="./html/reform.html" target="_blank">A Comprehensive Reform Strategy to Reduce Police Use of Force</a>  
-<a href="./html/interpretation.html" target="_blank">Apocalypse and Interpretation</a> 
+<a href="./html/interpretation.html" target="_blank">Apocalypse and Interpretation</a>  
 <a href="./html/fairness.html" target="_blank">Statistical Definition of Fairness</a>   
 <a href="./html/wwf.html" target="_blank">World Wildlife Fund (WWF) and Biodiversity</a>  
 <a href="./html/reflections.html" target="_blank">Personal Reflections from Lessons in Leadership</a>  
@@ -79,7 +76,7 @@ __Volunteer, BETO for Texas Gubernatorial Campaign__, Austin TX, 7/2022 - 5/2023
 * Organized campaign meetings with voters in Williamson County, Texas.  
 
 __Staff, Parkland Meadows Retirement Home__, Austin TX, 4/2022 - 7/2022
-* Demonstrated active listening by giving residents my full attention during conversations and responding thoughtfully and compassionately to their questions and concerns, fostering a sense of connection and respect.  
+* Listened to residents with full attention, and responded thoughtfully and compassionately to their questions and concerns, fostering a sense of connection and respect.  
 * Prepared dining hall for meal service, and cleaned up after. Helped residents with meal orders and other needs they might have during meal time.
 
 _Extracurricular_  
