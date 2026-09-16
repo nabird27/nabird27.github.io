@@ -10,13 +10,20 @@ Expected to graduate in Spring 2028
 
 _Relevant Coursework_  
 
-Political Science | Law, Societies and Justice (LSJ)
+Law, Societies and Justice (LSJ) | Political Science  
 :---|:---
-United States Congress | Ethics in Law and Justice
-The American Presidency | Technology, Ethics, Policy and Law
-Global Environmental Politics | Ethics in Algorithmic Decision-Making
-Politics and Law of International Human Rights | Human Rights Law in Culture and Practice
-The Supreme Court and American Political Development | Crime, Politics and Justice
+Data Privacy | United States Congress  
+Ethics in Law and Justice | The American Presidency  
+Technology, Ethics, Policy and Law | Global Environmental Politics  
+Human Rights Law in Culture and Practice | Politics and Law of International Human Rights  
+Crime, Politics and Justice | The Supreme Court and American Political Development  
+
+
+Data Science (minor)  
+:---  
+Ethics in Algorithmic Decision-Making  
+Remote Sensing for Environmental Health  
+R Programming 
 
 _Strengths_  
 Active Listening, Critical Thinking, Problem Solving, Adaptability, Essay Writing, Empathy & Interpersonal Communication, Team Collaboration  
@@ -25,14 +32,15 @@ _Skills_
 Data & Policy Analysis, Tutoring, Election Campaign & Logistics Management, Pencil Space, Google Workspace, Microsoft 365, R, R Studio  
 
 
-_Selected Academic Writing_    
-<a href="./html/reflections.html" target="_blank">Personal Reflections from Lessons in Leadership</a>   
-<a href="./html/lbj.html" target="_blank">LBJ and Nixon: Compare Judicial Confirmation Process</a>   
-<a href="./html/interpretation.html" target="_blank">Apocalypse and Interpretation</a>   
+_Selected Academic Writing_   
+<a href="./html/lbj.html" target="_blank">LBJ and Nixon: Compare Judicial Confirmation Process</a>  
+<a href="./html/privacy_urlshortening.html" target="_blank">Exploitation of URL Shorteners in Mobile Phishing Attacks</a>    
 <a href="./html/sentencing.html" target="_blank">Ethical Decision Making in Criminal Sentencing</a>   
 <a href="./html/reform.html" target="_blank">A Comprehensive Reform Strategy to Reduce Police Use of Force</a>  
+<a href="./html/interpretation.html" target="_blank">Apocalypse and Interpretation</a> 
 <a href="./html/fairness.html" target="_blank">Statistical Definition of Fairness</a>   
-<a href="./html/wwf.html" target="_blank">World Wildlife Fund (WWF) and Biodiversity</a>   
+<a href="./html/wwf.html" target="_blank">World Wildlife Fund (WWF) and Biodiversity</a>  
+<a href="./html/reflections.html" target="_blank">Personal Reflections from Lessons in Leadership</a>  
 <a href="./html/upr.html" target="_blank">UPR: A Critical Analysis of India's Fourth Cycle</a>   
 <a href="./html/humanrights.html" target="_blank">The Universality of Human Rights</a>   
 <a href="./html/ihl.html" target="_blank">Are we better off without the IHL in Securing the Right to Life?</a>   
