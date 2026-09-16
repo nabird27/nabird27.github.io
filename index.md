@@ -5,8 +5,8 @@ Bachelor of Arts in Political Science and Law, Societies and Justice (LSJ)
 _Minor:_ Data Science  
 _Quarterly Dean's List:_ Spring, Summer, Autumn 2025  
 _Annual Dean's List:_ 2025-2026  
-_Overall GPA:_ 3.56/4.00  
-_LSJ Major GPA:_ 3.72/4.00  
+_Overall GPA:_ 3.56/4.0  
+_LSJ Major GPA:_ 3.72/4.0  
 
 Expected to graduate in Spring 2028    
 
@@ -21,11 +21,11 @@ Human Rights Law in Culture and Practice | Politics and Law of International Hum
 Crime, Politics and Justice | The Supreme Court and American Political Development  
 
 
-Data Science (minor)  
-:---  
-Ethics in Algorithmic Decision-Making  
-Remote Sensing for Environmental Health  
-R Programming 
+Data Science (minor) |  
+:---  | :---  
+Ethics in Algorithmic Decision-Making |  
+Remote Sensing for Environmental Health |   
+R Programming |  
 
 _Strengths_  
 Active Listening, Critical Thinking, Problem Solving, Adaptability, Essay Writing, Empathy & Interpersonal Communication, Team Collaboration  
