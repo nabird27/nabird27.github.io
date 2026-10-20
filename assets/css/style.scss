@@ -19,26 +19,39 @@ header::before {
 header > * {
   position: relative;
   z-index: 1;
+  display: flex;
+  align-items: center;      /* vertically centers header content */
+  justify-content: space-between;
+  gap: 1rem;
 }
 
 /* Header title */
 header h1 {
   color: #ffffff;
-  font-size: 25px;
+  font-size: 23px;
   text-shadow: none;
+}
+
+/* Push the button group to the right */
+header .btn,
+header a.btn,
+header .button,
+header a.button {
+  margin-left: auto;
+  align-self: center;
 }
 
 /* Header description */
 header p {
   color: #e5e7eb;
-  font-size: 15px;
+  font-size: 14px;
   text-shadow: none;
 }
 
 /* Download button text */
 header .btn,
 header a.btn {
-  text-shadow: none;
+  text-shadow: none !important;;
 }
 
 /* Remove Download button text shadow on phones */
