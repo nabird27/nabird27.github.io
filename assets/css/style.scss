@@ -41,6 +41,18 @@ header a.button {
   align-self: center;
 }
 
+@media screen and (max-width: 48em) {
+  header .btn,
+  header a.btn,
+  header .btn:hover,
+  header a.btn:hover,
+  header .btn:focus,
+  header a.btn:focus {
+    color: #ffffff !important;
+    background-color: #2563eb !important;
+  }
+}
+
 /* Header description */
 header p {
   color: #e5e7eb;
@@ -52,14 +64,4 @@ header p {
 header .btn,
 header a.btn {
   text-shadow: none !important;;
-}
-
-/* Remove Download button text shadow on phones */
-@media screen and (max-width: 48em) {
-  header .btn,
-  header a.btn,
-  header .button,
-  header a.button {
-    text-shadow: none !important;
-  }
 }
