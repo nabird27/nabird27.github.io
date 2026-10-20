@@ -38,14 +38,26 @@ header ul {
   list-style: none;
   position: absolute;
   z-index: 1;
-  right: 150px;
+  right: 120px;
   top: 30px;
   height: 38px;
-  padding: 1px 0;
-  background: #884394;
-  border-radius: 5px;
+  background: #B580BF;
+  border: none;
+  border-radius: 0;
   box-shadow: none;
-  width: auto
+  width: auto;
+}
+
+/* Remove the outer shadow/frame */
+header ul::before {
+  content: none;
+}
+
+/* Button text */
+header ul a {
+  color: white;
+  text-shadow: none;
+  text-decoration: none;
 }
 
 @media screen and (max-width: 480px) {
