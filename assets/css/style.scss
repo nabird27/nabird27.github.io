@@ -38,13 +38,13 @@ header ul {
   list-style: none;
   position: absolute;
   z-index: 1;
-  right: 200px;
-  top: 29px;
+  right: 150px;
+  top: 30px;
   height: 38px;
   padding: 1px 0;
-  background: #3782CD;
+  background: #884394;
   border-radius: 5px;
-  box-shadow: inset rgba(255,255,255,0.45) 0 1px 0,inset rgba(0,0,0,0.2) 0 -1px 0;
+  box-shadow: none;
   width: auto
 }
 
@@ -60,6 +60,8 @@ header ul {
 
 /* Header description */
 header p {
+  top: 10px;
+  bottom: 10px;
   color: #e5e7eb;
   font-size: 14px;
   text-shadow: none;
