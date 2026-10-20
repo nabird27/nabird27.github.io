@@ -1,6 +1,6 @@
 bsreeni7@uw.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📍 Seattle WA  
 
-__University of Washington__, Seattle WA, 2024-2028   
+__University of Washington__, Seattle, WA, 2024-2028   
 Bachelor of Arts in Political Science and Law, Societies and Justice (LSJ). Minor in Data Science  
 Expected to graduate in Spring 2028  
   
