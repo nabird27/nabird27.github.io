@@ -20,3 +20,15 @@ header > * {
   position: relative;
   z-index: 1;
 }
+
+/* Header title */
+header h1 {
+  color: #ffffff;
+  font-size: 2.5rem;
+}
+
+/* Header description */
+header p {
+  color: #e5e7eb;
+  font-size: 1.1rem;
+}
