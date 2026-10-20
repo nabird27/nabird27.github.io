@@ -4,9 +4,10 @@ __University of Washington__, Seattle WA, 2024-2028
 Bachelor of Arts in Political Science and Law, Societies and Justice (LSJ). Minor in Data Science  
 Expected to graduate in Spring 2028  
   
-_GPA_: 3.56/4.0&nbsp;&nbsp;&nbsp;_LSJ Major GPA_: 3.72/4.0
+_GPA_: 3.56/4.0&nbsp;&nbsp;&nbsp;_LSJ Major GPA_: 3.72/4.0  
 
-_Annual Dean's List_: 2025-2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Quarterly Dean's List_: Spring, Summer, Autumn 2025  
+_Annual Dean's List_: 2025-2026  
+_Quarterly Dean's List_: Spring, Summer, Autumn 2025  
 
 _Coursework_
 <table>
