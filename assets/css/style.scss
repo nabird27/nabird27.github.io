@@ -24,11 +24,19 @@ header > * {
 /* Header title */
 header h1 {
   color: #ffffff;
-  font-size: 27px;
+  font-size: 20px;
+  text-shadow: none;
 }
 
 /* Header description */
 header p {
   color: #e5e7eb;
-  font-size: 17px;
+  font-size: 10px;
+  text-shadow: none;
+}
+
+/* Download button text */
+header .btn,
+header a.btn {
+  text-shadow: none;
 }
