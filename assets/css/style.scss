@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+  background-image: url("{{ '/assets/images/header.jpg' }}");
+  background-size: cover;
+  background-position: center;
+}
