@@ -41,10 +41,18 @@ header ul {
   right: 120px;
   top: 30px;
   height: 38px;
-  background: #B580BF;
+  background: none;
   border: none;
   border-radius: 0;
   box-shadow: none;
+  width: auto;
+}
+
+/* Remove divider borders between buttons */
+header ul li,
+header ul li + li,
+header ul li + li + li {
+  border: none;
   width: auto;
 }
 
@@ -67,6 +75,8 @@ header ul a {
 
   header p.view a {
     color: #ffffff; /* or another mobile-friendly color */
+    padding-top: 8px; /* adds 4 pixels of space above the text */
+    display: inline-block; /* ensures vertical padding applies reliably */
   }
 }
 
