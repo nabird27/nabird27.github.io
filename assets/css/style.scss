@@ -24,14 +24,14 @@ header > * {
 /* Header title */
 header h1 {
   color: #ffffff;
-  font-size: 22px;
+  font-size: 25px;
   text-shadow: none;
 }
 
 /* Header description */
 header p {
   color: #e5e7eb;
-  font-size: 12px;
+  font-size: 15px;
   text-shadow: none;
 }
 
@@ -39,4 +39,14 @@ header p {
 header .btn,
 header a.btn {
   text-shadow: none;
+}
+
+/* Remove Download button text shadow on phones */
+@media screen and (max-width: 48em) {
+  header .btn,
+  header a.btn,
+  header .button,
+  header a.button {
+    text-shadow: none !important;
+  }
 }
