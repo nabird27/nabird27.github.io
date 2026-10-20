@@ -1,16 +1,14 @@
-bsreeni7@uw.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📍 University District, Seattle WA 98105  
+bsreeni7@uw.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📍 Seattle WA  
 
 __University of Washington__, Seattle WA, 2024-2028   
 Bachelor of Arts in Political Science and Law, Societies and Justice (LSJ). Minor in Data Science  
 Expected to graduate in Spring 2028  
+  
+_GPA_: 3.56/4.0&nbsp;&nbsp;&nbsp;_LSJ Major GPA_: 3.72/4.0
 
-_LSJ Major GPA_:  3.72/4.0  
-_Overall GPA_:  3.56/4.0  
+_Annual Dean's List_: 2025-2026&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Quarterly Dean's List_: Spring, Summer, Autumn 2025  
 
-_Annual Dean's List_: 2025-2026  
-_Quarterly Dean's List_: Spring, Summer, Autumn 2025  
-
-_Relevant Coursework_
+_Coursework_
 <table>
   <tr>
     <td>Data Privacy</td>
@@ -40,10 +38,10 @@ _Relevant Coursework_
 </table>
 
 _Strengths_  
-Active Listening, Critical Thinking, Problem Solving, Adaptability, Essay Writing, Empathy & Interpersonal Communication, Team Collaboration  
+Active Listening, Critical Thinking, Problem Solving, Adaptability, Empathy & Interpersonal Communication, Team Collaboration  
 
 _Skills_  
-Data & Policy Analysis, Tutoring, Election Campaign & Logistics Management, Pencil Space, Google Workspace, Microsoft 365, R, R Studio  
+Data & Policy Analysis, Essay Writing, Tutoring, Election Campaign & Logistics Management, Google Workspace, Microsoft 365, Pencil Spaces, R, R Studio  
 
 _Selected Academic Writing_   
 <a href="./html/lbj.html" target="_blank">LBJ and Nixon: Compare Judicial Confirmation Process</a>  
@@ -68,16 +66,16 @@ __Volunteer, Hope Alliance__, Austin TX, 7/2023 - 6/2024
 * Texas Office of Attorney General certified advocate for victims of sexual violence.  
 * Listened carefully to victims of domestic abuse and sexual violence. Explained solutions and legal options maintaining a calm and professional approach. These experiences strengthened my empathy, emotional control and resilience.   
 
-__Volunteer, BETO for Texas Gubernatorial Campaign__, Austin TX, 7/2022 - 5/2023  
+__Volunteer, BETO for Texas Gubernatorial Campaign__, Round Rock TX, 7/2022 - 5/2023  
 * Setup Round Rock field office, and recruited volunteers to campaign in Williamson County.  
 * Facilitated voting rights workshops, get out the vote, voter registration and early voting drives.  
 * Maintained office logistics and reported weekly inventory reports to the campaign officials.  
 * Campaigned for school campus safety measures and teachers compensation.  
 * Organized campaign meetings with voters in Williamson County, Texas.  
 
-__Staff, Parkland Meadows Retirement Home__, Austin TX, 4/2022 - 7/2022
-* Listened to residents with full attention, and responded thoughtfully and compassionately to their questions and concerns, fostering a sense of connection and respect.  
-* Prepared dining hall for meal service, and cleaned up after. Helped residents with meal orders and other needs they might have during meal time.
+__Staff, Sagora Senior Living (Parkwood Meadows)__, Round Rock TX, 4/2022 - 7/2022
+* Listened to residents with full attention, and responded thoughtfully and compassionately to questions and concerns, fostering a sense of connection and respect.  
+* Prepared dining hall for meal service, and cleaned up after. Helped residents with meal orders and other needs during meal time.
 
 _Extracurricular_  
 __Women in Law Society__, Member, 10/2025 - present   
