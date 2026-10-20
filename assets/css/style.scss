@@ -8,3 +8,89 @@ header {
   background-size: cover;
   background-position: center;
 }
+
+header::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-color: rgba(255, 255, 255, 0.4); /* 40% black overlay */
+}
+
+header > * {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;      /* vertically centers header content */
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+/* Header title */
+header h1 {
+  color: #ffffff;
+  font-size: 23px;
+  text-shadow: none;
+}
+
+header ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  position: absolute;
+  z-index: 1;
+  right: 150px;
+  top: 32px;
+  height: 38px;
+  background: none;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  width: auto;
+}
+
+/* Remove divider borders between buttons */
+header ul li,
+header ul li + li,
+header ul li + li + li {
+  border: none;
+  width: auto;
+}
+
+/* Remove the outer shadow/frame */
+header ul::before {
+  content: none;
+}
+
+/* Button text */
+header ul a {
+  color: white;
+  text-shadow: none;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 480px) {
+  header p.view {
+    text-shadow: none;
+  }
+
+  header p.view a {
+    color: #ffffff; /* or another mobile-friendly color */
+    padding-top: 8px; /* adds 4 pixels of space above the text */
+    display: inline-block; /* ensures vertical padding applies reliably */
+  }
+}
+
+/* Header description */
+header p {
+  top: 10px;
+  bottom: 10px;
+  color: #e5e7eb;
+  font-size: 14px;
+  text-shadow: none;
+}
+
+/* Download button text */
+header .btn,
+header a.btn {
+  text-shadow: none !important;;
+}
