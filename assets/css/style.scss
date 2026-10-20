@@ -32,24 +32,13 @@ header h1 {
   text-shadow: none;
 }
 
-/* Push the button group to the right */
-header .btn,
-header a.btn,
-header .button,
-header a.button {
-  margin-left: auto;
-  align-self: center;
-}
+@media screen and (max-width: 480px) {
+  header p.view {
+    text-shadow: none;
+  }
 
-@media screen and (max-width: 48em) {
-  header .btn,
-  header a.btn,
-  header .btn:hover,
-  header a.btn:hover,
-  header .btn:focus,
-  header a.btn:focus {
-    color: #ffffff !important;
-    background-color: #2563eb !important;
+  header p.view a {
+    color: #ffffff; /* or another mobile-friendly color */
   }
 }
 
