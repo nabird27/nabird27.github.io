@@ -67,7 +67,7 @@ __Volunteer, Hope Alliance__, Austin TX, 7/2023 - 6/2024
 * Texas Office of Attorney General certified advocate for victims of sexual violence.  
 * Listened carefully to victims of domestic abuse and sexual violence. Explained solutions and legal options maintaining a calm and professional approach. These experiences strengthened my empathy, emotional control and resilience.   
 
-__Volunteer, BETO for Texas Gubernatorial Campaign__, Williamson County TX, 7/2022 - 5/2023  
+__Volunteer, Beto for Texas Gubernatorial Campaign__, Williamson County TX, 7/2022 - 5/2023  
 * Setup Round Rock field office, and recruited volunteers to campaign in Williamson County.  
 * Facilitated voting rights workshops, get out the vote, voter registration and early voting drives.  
 * Maintained office logistics and reported weekly inventory reports to the campaign officials.  
