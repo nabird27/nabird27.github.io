@@ -1,4 +1,4 @@
-bsreeni7@uw.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📍University District, Seattle WA  
+fbsreeni7@uw.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📍University District, Seattle WA  
 
 __University of Washington__, Seattle, WA, 2024-2028   
 Bachelor of Arts in Political Science and Law, Societies and Justice (LSJ). Minor in Data Science  
@@ -42,7 +42,7 @@ _Strengths_
 Active Listening, Critical Thinking, Problem Solving, Adaptability, Empathy & Interpersonal Communication, Team Collaboration  
 
 _Skills_  
-Data & Policy Analysis, Essay Writing, Tutoring, Election Campaign & Logistics Management, Google Workspace, Microsoft 365, Pencil Spaces, R, R Studio  
+Data & Policy Analysis, Essay Writing, Tutoring, Election Campaign & Logistics Management, Pencil Spaces, Google Workspace, Microsoft 365, R, R Studio  
 
 _Selected Academic Writing_   
 <a href="./html/lbj.html" target="_blank">LBJ and Nixon: Compare Judicial Confirmation Process</a>  
@@ -56,7 +56,7 @@ _Selected Academic Writing_
 <a href="./html/upr.html" target="_blank">UPR: A Critical Analysis of India's Fourth Cycle</a>   
 <a href="./html/humanrights.html" target="_blank">The Universality of Human Rights</a>   
 <a href="./html/ihl.html" target="_blank">Are we better off without the IHL in Securing the Right to Life?</a>   
-<a href="./html/copenhagen.html" target="_blank">Team Report: Bicycle Infrastructure Effects on Copenhagen's Air Quality</a>   
+<a href="./html/copenhagen.html" target="_blank">Team Report: Effects of Bicycle Infrastructure on Copenhagen's Air Quality</a>   
 
 _Work Experience_  
 __Ignite Fellow & UW Ambassador, Teach for America__, Seattle WA, 02/2025 - present  
