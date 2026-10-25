@@ -53,9 +53,9 @@ _Selected Academic Writing_
 <a href="./html/fairness.html" target="_blank">Statistical Definition of Fairness</a>   
 <a href="./html/wwf.html" target="_blank">World Wildlife Fund (WWF) and Biodiversity</a>  
 <a href="./html/reflections.html" target="_blank">Personal Reflections from Lessons in Leadership</a>  
-<a href="./html/upr.html" target="_blank">UPR: A Critical Analysis of India's Fourth Cycle</a>   
 <a href="./html/humanrights.html" target="_blank">The Universality of Human Rights</a>   
-<a href="./html/ihl.html" target="_blank">Are we better off without the IHL in Securing the Right to Life?</a>   
+<a href="./html/ihl.html" target="_blank">Are we better off without the IHL in Securing the Right to Life?</a>  
+<a href="./html/upr.html" target="_blank">Universal Periodic Review - A Critical Analysis of India's Fourth Cycle</a>  
 <a href="./html/copenhagen.html" target="_blank">Team Report: Effects of Bicycle Infrastructure on Copenhagen's Air Quality</a>   
 
 _Work Experience_  
