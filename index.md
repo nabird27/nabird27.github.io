@@ -55,8 +55,8 @@ _Selected Academic Writing_
 <a href="./html/reflections.html" target="_blank">Personal Reflections from Lessons in Leadership</a>  
 <a href="./html/upr.html" target="_blank">UPR: A Critical Analysis of India's Fourth Cycle</a>   
 <a href="./html/humanrights.html" target="_blank">The Universality of Human Rights</a>   
-<a href="./html/ihl.html" target="_blank">Are we better off without the IHL in Securing the Right to Life?</a> 
-<a href="./html/copenhagen.html" target="_blank">Team Report: Bicycle Infrastructure Effects on Copenhagen's Air Quality</a>
+<a href="./html/ihl.html" target="_blank">Are we better off without the IHL in Securing the Right to Life?</a>   
+<a href="./html/copenhagen.html" target="_blank">Team Report: Bicycle Infrastructure Effects on Copenhagen's Air Quality</a>   
 
 _Work Experience_  
 __Ignite Fellow & UW Ambassador, Teach for America__, Seattle WA, 02/2025 - present  
