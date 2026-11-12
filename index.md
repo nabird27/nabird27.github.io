@@ -1,6 +1,6 @@
-bsreeni7@uw.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📍Seattle WA  text: in  
+bsreeni7@uw.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📍Seattle WA&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/nabird27" target="_blank">LinkedIn</a>   
 
-__University of Washington__, Seattle, Washington&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024-2028  
+__University of Washington__, Seattle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024-2028  
 Bachelor of Arts in Political Science and Law, Societies and Justice (LSJ). Minor in Data Science  
 Expected to graduate in Spring 2028  
   
