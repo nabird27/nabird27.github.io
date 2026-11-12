@@ -1,8 +1,8 @@
-bsreeni7@uw.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📍Seattle WA&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/nabird27" target="_blank">LinkedIn</a>   
+📍Seattle, WA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; bsreeni7@uw.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/nabird27" target="_blank">LinkedIn Profile</a>   
 
-__University of Washington__, Seattle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024-2028  
-Bachelor of Arts in Political Science and Law, Societies and Justice (LSJ). Minor in Data Science  
-Expected to graduate in Spring 2028  
+__University of Washington__, Seattle, WA   2024-2028  
+B.A. double major in Political Science and Law, Societies, and Justice (LSJ); minor in Data Science   
+Expected graduation: Autumn 2027 (or Spring 2028)  
   
 _GPA_: 3.56/4.0&nbsp;&nbsp;&nbsp;_LSJ Major GPA_: 3.72/4.0  
 
