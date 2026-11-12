@@ -44,19 +44,19 @@ Active Listening, Critical Thinking, Problem Solving, Adaptability, Empathy & In
 _Skills_  
 Data & Policy Analysis, Essay Writing, Tutoring, Election Campaign & Logistics Management, Pencil Spaces, Google Workspace, Microsoft 365, R, R Studio  
 
-_Selected Academic Writing_   
-<a href="./html/lbj.html" target="_blank">LBJ and Nixon: Compare Judicial Confirmation Process</a>  
-<a href="./html/privacy_urlshortening.html" target="_blank">Exploitation of URL Shorteners in Mobile Phishing Attacks</a>    
-<a href="./html/sentencing.html" target="_blank">Ethical Decision Making in Criminal Sentencing</a>   
-<a href="./html/reform.html" target="_blank">A Comprehensive Reform Strategy to Reduce Police Use of Force</a>  
-<a href="./html/interpretation.html" target="_blank">Apocalypse and Interpretation</a>  
-<a href="./html/fairness.html" target="_blank">Statistical Definition of Fairness</a>   
-<a href="./html/wwf.html" target="_blank">World Wildlife Fund (WWF) and Biodiversity</a>  
-<a href="./html/reflections.html" target="_blank">Personal Reflections from Lessons in Leadership</a>  
-<a href="./html/humanrights.html" target="_blank">The Universality of Human Rights</a>   
-<a href="./html/ihl.html" target="_blank">Are we better off without the IHL in Securing the Right to Life?</a>  
-<a href="./html/upr.html" target="_blank">Universal Periodic Review - A Critical Analysis of India's Fourth Cycle</a>  
-<a href="./html/copenhagen.html" target="_blank">Team Report: Effects of Bicycle Infrastructure on Copenhagen's Air Quality</a>   
+_Writing samples_   
+<a href="./writings/lbj.html" target="_blank">LBJ and Nixon: Compare Judicial Confirmation Process</a>  
+<a href="./writings/privacy_urlshortening.html" target="_blank">Exploitation of URL Shorteners in Mobile Phishing Attacks</a>    
+<a href="./writings/sentencing.html" target="_blank">Ethical Decision Making in Criminal Sentencing</a>   
+<a href="./writings/reform.html" target="_blank">A Comprehensive Reform Strategy to Reduce Police Use of Force</a>  
+<a href="./writings/interpretation.html" target="_blank">Apocalypse and Interpretation</a>  
+<a href="./writings/fairness.html" target="_blank">Statistical Definition of Fairness</a>   
+<a href="./writings/wwf.html" target="_blank">World Wildlife Fund (WWF) and Biodiversity</a>  
+<a href="./writings/reflections.html" target="_blank">Personal Reflections from Lessons in Leadership</a>  
+<a href="./writings/humanrights.html" target="_blank">The Universality of Human Rights</a>   
+<a href="./writings/ihl.html" target="_blank">Are we better off without the IHL in Securing the Right to Life?</a>  
+<a href="./writings/upr.html" target="_blank">Universal Periodic Review - A Critical Analysis of India's Fourth Cycle</a>  
+<a href="./writings/copenhagen.html" target="_blank">Team Report: Effects of Bicycle Infrastructure on Copenhagen's Air Quality</a>   
 
 _Work Experience_  
 __Ignite Fellow & UW Ambassador, Teach for America__, Seattle WA, 02/2025 - present  
@@ -84,4 +84,4 @@ __Women in Law Society__, Member, 10/2025 - present
 __Delta Kappa Delta Sorority__, Nu Chapter, Member, 10/2025 - present   
 __Resident Council Students Association__, Council Member, 10/2024 - 6/2025   
 
----   
+---
