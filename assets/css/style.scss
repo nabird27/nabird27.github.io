@@ -30,9 +30,15 @@ header h1 {
   color: #ffffff;
   font-size: 23px;
   text-shadow: none;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.25em;
 }
 
-header h1 a {
+header h1 > a {
+  position: static;
+  float: none;
   color: #ffffff;
   font-size: 23px;
   text-shadow: none;
@@ -40,8 +46,6 @@ header h1 a {
 }
 
 header h1 a.linkedin-icon {
-  position: static;
-  float: none;
   display: inline-flex;
   flex: 0 0 auto;
   margin: 0;
