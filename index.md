@@ -3,33 +3,33 @@
 __University of Washington__, Seattle, WA&nbsp;&nbsp;&nbsp;&nbsp;2024 - 2028  
 B.A. double major in Political Science and Law, Societies, and Justice (LSJ); minor in Data Science   
 Expected graduation: Autumn 2027 (or Spring 2028)  
-🏅 _Annual Dean's List_: 2025-2026  
+🏅 Annual Dean's List: 2025-2026  
 
 _Coursework_  
 <table>
   <tr>
-    <td>The American Presidency</td>
+    <td>United States Congress</td>
     <td>Data Privacy</td>    
   </tr>
   <tr>
-    <td>United States Congress</td>
+    <td>The American Presidency</td>
     <td>Women in Leadership</td>
   </tr>
-  <tr>
+  <tr> 
     <td>Technology, Ethics, Policy and Law</td>
     <td>Ethics in Algorithmic Decision-Making</td>
   </tr>
   <tr>
     <td>Human Rights Law in Culture and Practice</td>
-    <td>Global Environmental Politics</td>    
+    <td>Crime, Politics and Justice</td>   
   </tr>
   <tr>
     <td>Politics and Law of International Human Rights</td>    
-    <td>Remote Sensing for Environmental Health</td>    
+    <td>Global Environmental Politics</td>   
   </tr>
   <tr>
     <td>The Supreme Court and American Political Development</td>
-    <td>Crime, Politics and Justice</td>
+    <td>Remote Sensing for Environmental Health</td>
   </tr>
 </table>
 
@@ -43,13 +43,11 @@ _Writing samples_
 <a href="{{ site.url }}/{{ site.html }}/lbj.html" target="_blank">LBJ and Nixon: Compare Judicial Confirmation Process</a>  
 <a href="{{ site.url }}/{{ site.html }}/privacy_urlshortening.html" target="_blank">Exploitation of URL Shorteners in Mobile Phishing Attacks</a>    
 <a href="{{ site.url }}/{{ site.html }}/wwf.html" target="_blank">World Wildlife Fund (WWF) and Biodiversity</a>  
-<br>
-<a href="{{ site.url }}/$$ site.html }}">Complete list of essays</a>  
+<a href="{{ site.url }}/{{ site.html }}">Complete list of essays</a>  
  
-
 _Work Experience_  
 __Ignite Fellow & Ambassador, Teach for America__, Seattle WA, 02/2025 - present  
-* Completed a 12-week intensive SAT Reading boot camp for 10 Seagoville High School students. Designed personalized lessons in evidence-based reading and vocabulary in context; raised practice scores by an average of 80 points through timed drills, test-taking strategies, and error analysis.
+* Delivered a 12-week intensive SAT Reading boot camp for 10 Seagoville High School students. Designed personalized lessons in evidence-based reading and vocabulary in context; raised practice scores by an average of 80 points through timed drills, test-taking strategies, and error analysis.
 * Tutored 4th-grade students for 50 hours per quarter, contributing to an average 20% improvement on standardized tests and a 95% success rate in meeting academic goals set by the Ignite program coordinator.
 * Adapted lesson plans to students’ individual learning needs, providing tailored instruction and earning a 90% satisfaction rating from students and parents. 
 
