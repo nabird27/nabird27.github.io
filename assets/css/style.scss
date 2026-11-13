@@ -39,6 +39,14 @@ header h1 a {
   text-decoration: none;
 }
 
+header h1 a.linkedin-icon {
+  position: static;
+  float: none;
+  display: inline-flex;
+  flex: 0 0 auto;
+  margin: 0;
+}
+
 header ul {
   margin: 0;
   padding: 0;
