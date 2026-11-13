@@ -45,6 +45,10 @@ header h1 > a {
   text-decoration: none;
 }
 
+header h1 > a:hover {
+  color: #B7A57A;
+}
+
 header h1 a.linkedin-icon {
   display: inline-flex;
   flex: 0 0 auto;
@@ -119,10 +123,10 @@ header a.btn {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 0.8em;
-  height: 0.8em;
+  width: 0.9em;
+  height: 0.9em;
   margin-left: 0.25em;
-  border-radius: 0.08em;
+  border-radius: 0.09em;
   background: #0a66c2;
   color: #fff;
   font: bold 0.62em Arial, sans-serif;
@@ -133,5 +137,6 @@ header a.btn {
 
 .linkedin-icon:hover,
 .linkedin-icon:focus {
-  background: #004182;
+    background: #fff;
+    color: #0a66c2;
 }
