@@ -1,48 +1,44 @@
-📍Seattle, WA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; bsreeni7@uw.edu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/nabird27" target="_blank">LinkedIn Profile</a>   
+📍 Seattle, WA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bsreeni7@uw.edu    
 
-__University of Washington__, Seattle, WA   2024-2028  
+__University of Washington__, Seattle, WA&nbsp;&nbsp;&nbsp;&nbsp;2024 - 2028  
 B.A. double major in Political Science and Law, Societies, and Justice (LSJ); minor in Data Science   
 Expected graduation: Autumn 2027 (or Spring 2028)  
-  
-_GPA_: 3.56/4.0&nbsp;&nbsp;&nbsp;_LSJ Major GPA_: 3.72/4.0  
 
-_Annual Dean's List_: 2025-2026  
-_Quarterly Dean's List_: Spring, Summer, Autumn 2025  
+🏅 _Annual Dean's List_: 2025-2026  
 
-_Coursework_
+_Coursework_  
 <table>
   <tr>
-    <td>Data Privacy</td>
-    <td>Women in Leadership</td>
+    <td>The American Presidency</td>
+    <td>Data Privacy</td>    
   </tr>
   <tr>
-    <td>The American Presidency</td>
     <td>United States Congress</td>
+    <td>Women in Leadership</td>
   </tr>
   <tr>
     <td>Technology, Ethics, Policy and Law</td>
     <td>Ethics in Algorithmic Decision-Making</td>
   </tr>
   <tr>
-    <td>Global Environmental Politics</td>
-    <td>Remote Sensing for Environmental Health</td>
+    <td>Human Rights Law in Culture and Practice</td>
+    <td>Global Environmental Politics</td>    
+  </tr>
+  <tr>
+    <td>Politics and Law of International Human Rights</td>    
+    <td>Remote Sensing for Environmental Health</td>    
   </tr>
   <tr>
     <td>The Supreme Court and American Political Development</td>
     <td>Crime, Politics and Justice</td>
   </tr>
-  <tr>
-    <td>Politics and Law of International Human Rights</td>
-    <td> Human Rights Law in Culture and Practice</td>
-  </tr>
-  
 </table>
 
 _Strengths_  
-Active Listening, Critical Thinking, Problem Solving, Adaptability, Empathy & Interpersonal Communication, Team Collaboration  
+Active Listening, Critical Thinking, Problem Solving, Adaptability, Empathy & Communication  
 
 _Skills_  
-Data & Policy Analysis, Essay Writing, Tutoring, Election Campaign & Logistics Management, Pencil Spaces, Google Workspace, Microsoft 365, R, R Studio  
+Writing, Tutoring, Data Analysis (Excel, Tableau, R), Google Workspace, Microsoft 365, Pencil Spaces, Election Campaign and Logistics Management   
 
 _Writing samples_   
 <a href="{{ site.url }}/{{ site.html }}/lbj.html" target="_blank">LBJ and Nixon: Compare Judicial Confirmation Process</a>  
@@ -61,25 +57,25 @@ _Writing samples_
 <a href="{{ site.url }}/{{ site.html }}/copenhagen.html" target="_blank">Team Report: Effects of Bicycle Infrastructure on Copenhagen's Air Quality</a>   
 
 _Work Experience_  
-__Ignite Fellow & UW Ambassador, Teach for America__, Seattle WA, 02/2025 - present  
-* Leading a 12-week intensive SAT Reading boot-camp for 10 students at Seagoville High School. Designed personalized lesson plans focused on evidence-based reading, vocabulary in context, and command of evidence to boost practice scores by an average of 80 points through strategic test-taking methodologies, timed drills, and comprehensive error analysis.  
-* Delivered over 40 hours of tutoring each quarter to 4th grade students. Results showed average improvement of 20% on standardized tests and 95% success rate in meeting academic goals set by the Ignite program coordinator.  
-* Adapted lesson plans based on individual learning needs, ensuring students received tailored instruction that helped them achieve academic success with a 90% satisfaction rate from parents and students.  
+__Ignite Fellow & Ambassador, Teach for America__, Seattle WA, 02/2025 - present  
+* Completed a 12-week intensive SAT Reading boot camp for 10 Seagoville High School students. Designed personalized lessons in evidence-based reading and vocabulary in context; raised practice scores by an average of 80 points through timed drills, test-taking strategies, and error analysis.
+* Tutored 4th-grade students for 50 hours per quarter, contributing to an average 20% improvement on standardized tests and a 95% success rate in meeting academic goals set by the Ignite program coordinator.
+* Adapted lesson plans to students’ individual learning needs, providing tailored instruction and earning a 90% satisfaction rating from students and parents. 
 
 __Volunteer, Hope Alliance__, Austin TX, 7/2023 - 6/2024
-* Texas Office of Attorney General certified advocate for victims of sexual violence.  
-* Listened carefully to victims of domestic abuse and sexual violence. Explained solutions and legal options maintaining a calm and professional approach. These experiences strengthened my empathy, emotional control and resilience.   
+* Served as a Texas Office of the Attorney General–certified advocate for survivors of sexual violence.
+* Listened to people affected by domestic abuse and sexual violence, explained available resources and legal options, and maintained a calm, professional approach.
+* Strengthened skills in empathy, emotional regulation, and resilience through survivor-centered advocacy. 
 
-__Volunteer, Beto for Texas Gubernatorial Campaign__, Williamson County TX, 7/2022 - 5/2023  
+__Volunteer, Texas Gubernatorial Campaign__, Williamson County TX, 7/2022 - 5/2023  
 * Setup Round Rock field office, and recruited volunteers to campaign in Williamson County.  
 * Facilitated voting rights workshops, get out the vote, voter registration and early voting drives.  
 * Maintained office logistics and reported weekly inventory reports to the campaign officials.  
-* Campaigned for school campus safety measures and teachers compensation.  
 * Organized campaign meetings with voters in Williamson County, Texas.  
 
-__Staff, Sagora Senior Living (Parkwood Meadows)__, Round Rock TX, 4/2022 - 7/2022
-* Listened to residents with full attention, and responded thoughtfully and compassionately to questions and concerns, fostering a sense of connection and respect.  
-* Prepared dining hall for meal service, and cleaned up after. Helped residents with meal orders and other needs during meal time.
+__Staff Member, Sagora Senior Living (Parkwood Meadows)__, Round Rock TX, 4/2022 - 7/2022
+* Listened attentively to residents and responded thoughtfully and compassionately to their questions and concerns, helping foster connection and respect.
+* Prepared the dining hall for meal service and cleaned up afterward; assisted residents with meal orders and other needs during mealtimes.
 
 _Extracurricular_  
 __Women in Law Society__, Member, 10/2025 - present   
