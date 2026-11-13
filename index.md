@@ -37,7 +37,7 @@ _Strengths_
 Active Listening, Critical Thinking, Problem Solving, Adaptability, Empathy & Communication  
 
 _Skills_  
-Writing, Tutoring, Data Analysis (Excel, Tableau, R), Google Workspace, Microsoft 365, Pencil Spaces, Election Campaign and Logistics Management   
+Writing, Tutoring, Data Analysis (Excel, Tableau, R), Google Workspace, Microsoft 365, Pencil Spaces     
 
 _Writing samples_   
 <a href="{{ site.url }}/{{ site.html }}/lbj.html" target="_blank">LBJ and Nixon: Compare Judicial Confirmation Process</a>  
