@@ -94,3 +94,24 @@ header .btn,
 header a.btn {
   text-shadow: none !important;;
 }
+
+.linkedin-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 0.8em;
+  height: 0.8em;
+  margin-left: 0.25em;
+  border-radius: 0.08em;
+  background: #0a66c2;
+  color: #fff;
+  font: bold 0.62em Arial, sans-serif;
+  line-height: 1;
+  text-decoration: none;
+  vertical-align: 0.12em;
+}
+
+.linkedin-icon:hover,
+.linkedin-icon:focus {
+  background: #004182;
+}
