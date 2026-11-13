@@ -13,8 +13,8 @@ Browse the available interactive pages below.
 {% for page in pages %}
 
 <a href="{{ site.url }}/{{ site.html }}/{{ page.file }}" target="_blank" rel="noopener noreferrer">{{ page.title }}</a>  
-
+<br>
 {{ page.description }}  
-
+<br><br>
 {% endfor %}  
 </div>
