@@ -3,7 +3,7 @@ layout: default
 title: reflections
 ---
 
-## My reflections through Lessons in Leadership  
+## My reflections from Lessons in Leadership  
 
 > 2287 words, 7-8 pages  
 
