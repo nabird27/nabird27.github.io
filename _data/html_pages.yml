@@ -30,26 +30,26 @@
   title: A Comprehensive Reform Strategy to Reduce Police Use of Force
   description: This essay proposes reducing systemic police violence through smarter dispatch, enhanced body cameras, and continuous accountability, while acknowledging significant financial, ethical, and organizational implementation barriers.
 
-- file: interpretation.html
-  title: Apocalypse and Interpretation
-  description: This essay contrasts Job’s acceptance of divine mystery with Lauren Olamina’s pragmatic, adaptive faith in Octavia Butler’s Parable of the Sower, exploring how apocalyptic contexts reshape beliefs, authority structures, and survival strategies.
+- file: review.html
+  title: "Review and Analysis: 12 Angry Men (1957)"
+  description: This analysis explores how the film, 12 Angry Men, exposes prejudice, poverty, and groupthink, emphasizing dissent, empathy, and reasonable doubt as essential safeguards against unjust legal outcomes.
 
 - file: wwf.html
   title: WWF and Biodiversity Protection
   description: WWF shapes biodiversity certification as both standard-setter and gatekeeper, promoting conservation while facing criticism over greenwashing, concentrated power, corporate influence, and inequities affecting developing nations.
 
+- file: translation.md
+  title: A Comparative Analysis of Collaborative Human and Machine Translation in Literature and Technical Documentation
+  description: Machine translation improves technical efficiency and consistency, but literature requires human creativity, cultural understanding, and judgment, making collaboration essential while safeguarding translators’ expertise and agency.
+
 - file: copenhagen.html
   title: "Team Report: Effects of Bicycle Infrastructure on Copenhagen's Air Quality"
   description: Copenhagen’s cycling infrastructure correlates with declining nitrogen dioxide levels, suggesting environmental and health benefits, although limited historical data and confounding factors complicate establishing definitive causation.
 
+- file: interpretation.html
+  title: Apocalypse and Interpretation
+  description: This essay contrasts Job’s acceptance of divine mystery with Lauren Olamina’s pragmatic, adaptive faith in Octavia Butler’s Parable of the Sower, exploring how apocalyptic contexts reshape beliefs, authority structures, and survival strategies.
+
 - file: fairness.html
   title: Statistical Definition of Fairness in Mortgage Lending Decisions
   description: This essay examines independence, sufficiency, and separation in mortgage algorithms, prioritizing separation while emphasizing transparency, accountability, privacy, and oversight beyond statistical measures of lending fairness.
-
-- file: review.html
-  title: "Review and Analysis: 12 Angry Men (1957)"
-  description: This analysis explores how the film, 12 Angry Men, exposes prejudice, poverty, and groupthink, emphasizing dissent, empathy, and reasonable doubt as essential safeguards against unjust legal outcomes.
-
-- file: translation.md
-  title: A Comparative Analysis of Collaborative Human and Machine Translation in Literature and Technical Documentation
-  description: Machine translation improves technical efficiency and consistency, but literature requires human creativity, cultural understanding, and judgment, making collaboration essential while safeguarding translators’ expertise and agency.
