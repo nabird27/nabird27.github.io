@@ -6,7 +6,7 @@ Expected graduation: Autumn 2027 (or Spring 2028)
 🏅 Annual Dean's List: 2025-2026  
 
 _Coursework_  
-<table>
+<table style="margin-top: 0;">
   <tr>
     <td>United States Congress</td>
     <td>Data Privacy</td>    
@@ -39,7 +39,7 @@ Active Listening, Critical Thinking, Problem Solving, Adaptability, Empathy & Co
 _Skills_  
 Writing, Tutoring, Data Analysis (Excel, Tableau, R), Google Workspace, Microsoft 365, Pencil Spaces     
 
-_Writing samples_ (<a href="{{ site.url }}/{{ site.html }}">all essays</a>)  
+_Writing samples&nbsp;&nbsp;&nbsp;&nbsp;(<a href="{{ site.url }}/{{ site.html }}">all essays</a>)_    
 <a href="{{ site.url }}/{{ site.html }}/lbj.html" target="_blank">LBJ and Nixon: Compare Judicial Confirmation Process</a>  
 <a href="{{ site.url }}/{{ site.html }}/privacy_urlshortening.html" target="_blank">Exploitation of URL Shorteners in Mobile Phishing Attacks</a>    
 <a href="{{ site.url }}/{{ site.html }}/wwf.html" target="_blank">World Wildlife Fund (WWF) and Biodiversity</a>  
@@ -47,7 +47,7 @@ _Writing samples_ (<a href="{{ site.url }}/{{ site.html }}">all essays</a>)
 _Work Experience_  
 __Ignite Fellow & Ambassador, Teach for America__, Seattle WA, 02/2025 - present  
 * Delivered a 12-week intensive SAT Reading boot camp for 10 Seagoville High School students. Designed personalized lessons in evidence-based reading and vocabulary in context; raised practice scores by an average of 80 points through timed drills, test-taking strategies, and error analysis.
-* Tutored 4th-grade students for 50 hours per quarter, contributing to an average 20% improvement on standardized tests and a 95% success rate in meeting academic goals set by the Ignite program coordinator.
+* Tutored 4th-grade students for 50 hours per quarter, contributing to an average 20% improvement on standardized tests and a 95% success rate in meeting academic goals set by the program leader.
 * Adapted lesson plans to students’ individual learning needs, providing tailored instruction and earning a 90% satisfaction rating from students and parents. 
 
 __Volunteer, Hope Alliance__, Austin TX, 7/2023 - 6/2024
