@@ -3,10 +3,13 @@ layout: default
 title: essays
 ---
 
-A collection of essays written for coursework.  
+> A collection of essays written for college coursework.  
 
+{% comment %}
 {% assign pages = site.data.html_pages | sort: "title" %}
+{% comment %}
 
+{% assign pages = site.data.html_pages %}
 <div class="html-page-list">
 {% for page in pages %}
 

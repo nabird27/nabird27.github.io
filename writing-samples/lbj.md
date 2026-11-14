@@ -3,7 +3,7 @@ layout: default
 title: compare judicial confirmation process
 ---
 
-# LBJ and Nixon: Compare Judicial Confirmation Process  
+## LBJ and Nixon: Compare Judicial Confirmation Process  
 
 > 2439 words, 8-9 pages  
 
