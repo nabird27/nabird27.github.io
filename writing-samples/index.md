@@ -7,7 +7,7 @@ title: essays
 
 {% comment %}
 {% assign pages = site.data.html_pages | sort: "title" %}
-{% comment %}
+{% endcomment %}
 
 {% assign pages = site.data.html_pages %}
 <div class="html-page-list">
