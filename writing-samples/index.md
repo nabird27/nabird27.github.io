@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Selected academic writing
+title: essays
 ---
 
-# Selected academic writing  
-
-Browse the available interactive pages below.
+A collection of essays written for coursework.  
 
 {% assign pages = site.data.html_pages | sort: "title" %}
 
