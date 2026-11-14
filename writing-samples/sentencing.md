@@ -1,0 +1,40 @@
+---
+layout: default
+title: ethical decision making
+---
+
+## Ethical Decision Making in Criminal Sentencing
+
+> 987 words, 3-4 pages
+
+###  Introduction & Background  
+Correctional Offender Management Profiling for Alternative Sanctions (COMPAS) is a data-driven decision-making system that uses computations and data to make automated risk and needs assessment. Introduced in the early 2000s, this system is used by law enforcement agencies in the United States. COMPAS utilizes a series of algorithms that analyze various data points and computes risk scores intended to guide decisions related to sentencing, parole, and probation. Despite its intended purpose of improving public safety and resource allocation, COMPAS has faced significant criticism regarding the potential for racial bias and lack of transparency in its algorithms, raising important ethical questions about the reliance on predictive analytics in sensitive justice settings.  
+
+### How it works  
+Developed by Northpointe, a private company, COMPAS is built using a combination of various statistical techniques, primarily relying on machine learning algorithms. The COMPAS algorithm draws on a comprehensive dataset, comprising demographic information, criminal history, and behavioral patterns, assigning weights based on their correlation to recidivism (Park, 2019). This wealth of data is then analyzed using a combination of machine learning techniques, primarily logistic regression and decision-tree methodologies. These algorithms scrutinize specific factors, correlating them with recidivism rates to generate scores that quantify the risk level of an individual. The algorithm outputs two separate scores: one for general recidivism and one for violent recidivism. The scores range from 1 to 10, with higher numbers indicating a greater risk of reoffending. COMPAS is trained on historical data from criminal records, which raises important ethical concerns due to potential biases in the data. Critics have raised concerns that the algorithm may reinforce existing biases, particularly against marginalized groups. The reliance on historical arrest data can perpetuate systemic issues in policing and sentencing.  
+
+### Ethical Issues  
+Although COMPAS is intended to assist judges in making decisions about sentencing and supervision, the use of opaque algorithms raises significant concerns about accountability, transparency, accuracy and fairness. This obscurity makes it difficult for defendants or legal professionals to challenge the results. A recent study by ProPublica found that COMPAS was significantly more likely to incorrectly label black defendants as high-risk compared to white defendants in Broward County, Florida (ProPublica, 2016). The study revealed that if a white defendant had a low risk score, they were 73% less likely to reoffend than a black defendant with the same score, raising issues of fairness and equity in the criminal justice system. COMPAS scores are not always used consistently across different jurisdictions, and judges may rely too heavily on the tool's predictions, which can lead to unfair outcomes for defendants. This bias can have severe consequences, such as longer sentences or denial of parole, perpetuating systemic racism and undermining public trust in judicial processes.  
+
+### Remedies  
+The use of opaque algorithms in law enforcement, inconsistent application of system’s recommendations across jurisdictions, overreliance on flawed data, impact on marginalized groups, raise significant ethical concerns. Given these implications, there is a growing body of literature calling for ethical frameworks to govern the deployment of algorithmic tools in sensitive areas like law enforcement (Binns, 2018). Such frameworks should prioritize transparency, accountability, and fairness to uphold the principles of justice. One approach for addressing racial disparities is to use fairness-aware algorithms that adjust for racial disparities in outcomes. Regular audits of outcomes by race can help identify biases, and models can be retrained with bias mitigation techniques to improve fairness. ProPublica suggests that regular audits of outcomes by race and retraining models with bias mitigation techniques are important remedies for addressing racial disparities in risk assessment tools (ProPublica, 2016).  
+
+Another concern is a lack of transparency in the scoring logic used by these tools. To address this issue, it has been suggested that courts should mandate explainable AI tools for legal decisions and require public disclosure of scoring logic or use open-source alternatives. The Indiana Law Journal suggests that requiring public disclosure of scoring logic can help ensure that algorithms are transparent and accountable (Indiana Law Journal, 2025). Overreliance on flawed data is another concern in the use of risk assessment tools like COMPAS. To address this issue, inputs that reflect systemic bias, such as arrest records, should be removed or adjusted. Springer suggests that using validated behavioral data and community context instead can help improve the accuracy and fairness of risk assessments (Linhardt et.al, 2025). Impact on marginalized groups is another important consideration in the use of COMPAS and similar tools. To address this issue, outcomes should be monitored by age, race, and socioeconomic status, and community oversight should be included in algorithm deployment. CEUR Workshop Proceedings suggests that monitoring outcomes by demographic factors can help ensure that risk assessments are fair to all groups (Roda, 2023).  
+
+Also, there is a trade-off between fairness and accuracy in the design of risk assessment tools. To address this issue, multi-objective optimization can be used to balance fairness and predictive power. The Indiana Law Journal suggests that prioritizing ethical design over marginal accuracy gains is important for promoting fairness in machine learning (Indiana Law Journal, 2025).  
+
+### Conclusion  
+To address these issues, advocates call for greater scrutiny and regulation of algorithms and the risk assessment systems like COMPAS in the criminal justice system. This includes ensuring that the data used is unbiased, increasing transparency by disclosing algorithmic decision-making processes, and implementing checks to ensure that the tool does not perpetuate racial bias or discrimination. It is crucial to strike a balance between utilizing technology to improve efficiency and fairness in the criminal justice system while minimizing potential negative consequences for vulnerable populations.  
+
+In conclusion, the use of COMPAS raises significant ethical concerns regarding accuracy, fairness, and equity in the criminal justice system. The potential for bias in the tool's predictions can have devastating consequences for defendants, particularly those from racial and ethnic minority groups. It is essential to address these issues and ensure that risk assessment tools are used transparently, consistently, and fairly to promote justice and public trust.  
+
+#### References  
+Angwin, J., Larson, J., Mattu, S., & Kirchner, L. (2016). Machine Bias: An Algorithm Used across the Country to Predict Future Criminals is Often Wrong About Black People. ProPublica. https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing  
+
+Binns, R. (2018). Fairness in Machine Learning: Lessons from Political Philosophy. IEEE Intelligent Systems, 33(6), 52-57.  
+
+Cofone, Ignacio and Khern-am-nuai, Warut (2025) "The Overstated Cost of AI Fairness in Criminal Justice," Indiana Law Journal: Vol. 100: Iss. 4, Article 4. https://www.repository.law.indiana.edu/ilj/vol100/iss4/4  
+
+Engel, C., Linhardt, L. & Schubert, M. Code is law: how COMPAS affects the way the judiciary handles the risk of recidivism. Artif Intell Law 33, 383–404 (2025). https://doi.org/10.1007/s10506-024-09389-8  
+
+Rodà, A. (2023). The COMPAS case: an educational journey for explaining fairness in AI-based applications. CEUR Workshop Proceedings, 3961, 1-12. https://ceur-ws.org/Vol-3961/paper4.pdf
