@@ -5,7 +5,7 @@ B.A. double major in Political Science and Law, Societies, and Justice (LSJ); mi
 Expected graduation: Autumn 2027 (or Spring 2028)  
 🏅 Annual Dean's List: 2025-2026  
 
-_Coursework_  
+<p style="margin-bottom: 0;"><em>Coursework</em></p>
 <table style="margin-top: 0;">
   <tr>
     <td>United States Congress</td>

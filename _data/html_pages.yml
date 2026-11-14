@@ -45,3 +45,11 @@
 - file: fairness.html
   title: Statistical Definition of Fairness in Mortgage Lending Decisions
   description: This essay examines independence, sufficiency, and separation in mortgage algorithms, prioritizing separation while emphasizing transparency, accountability, privacy, and oversight beyond statistical measures of lending fairness.
+
+- file: review.html
+  title: "Review and Analysis: 12 Angry Men (1957)"
+  description: This analysis explores how the film, 12 Angry Men, exposes prejudice, poverty, and groupthink, emphasizing dissent, empathy, and reasonable doubt as essential safeguards against unjust legal outcomes.
+
+- file: translation.md
+  title: A Comparative Analysis of Collaborative Human and Machine Translation in Literature and Technical Documentation
+  description: Machine translation improves technical efficiency and consistency, but literature requires human creativity, cultural understanding, and judgment, making collaboration essential while safeguarding translators’ expertise and agency.
