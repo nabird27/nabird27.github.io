@@ -5,7 +5,7 @@ title: reflections
 
 # My reflections through Lessons in Leadership  
 
-> Written by Brinda Sreenivas in Spring 2025 as academic submission for Women in Leadership course.  
+> 2287 words, 7-8 pages  
 
 Unexpectedly, Women in Leadership course became a deeply personal journey. It reshaped how I view my place in this world, the power of community, and the quiet courage required to lead with authenticity. What began as an academic exercise evolved into a mirror, reflecting not just societal inequalities but my own unspoken fears and aspirations. Through this process, I discovered that leadership is less about titles or authority and more about the daily choice to show up as your whole self, even when the path feels uncertain.  
 
