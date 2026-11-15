@@ -33,7 +33,7 @@ Expected graduation: Autumn 2027 (or Spring 2028)
   </tr>
 </table>
 
-_Certifications:_&nbsp;&nbsp;[Data Analysis using Excel](https://www.credential.net/5905656d-7718-4e26-86be-853017944dfa#acc.MiutFVUE)  
+_Certifications:_&nbsp;&nbsp;<a href="https://www.credential.net/5905656d-7718-4e26-86be-853017944dfa#acc.MiutFVUE" target="_blank" rel="noopener noreferrer">Data Analysis using Excel</a>  
 
 _Strengths_  
 Active Listening, Critical Thinking, Problem Solving, Adaptability, Empathy & Communication  
@@ -41,10 +41,10 @@ Active Listening, Critical Thinking, Problem Solving, Adaptability, Empathy & Co
 _Skills_  
 Writing, Tutoring, Data Analysis (Excel, Tableau, R), Google Workspace, Microsoft 365, Pencil Spaces     
 
-_Writing samples&nbsp;&nbsp;&nbsp;&nbsp;(<a href="{{ site.url }}/{{ site.html }}">collection of all essays</a>)_    
-<a href="{{ site.url }}/{{ site.html }}/lbj.html" target="_blank">LBJ and Nixon: Compare Judicial Confirmation Process</a>  
-<a href="{{ site.url }}/{{ site.html }}/privacy_urlshortening.html" target="_blank">Exploitation of URL Shorteners in Mobile Phishing Attacks</a>    
-<a href="{{ site.url }}/{{ site.html }}/wwf.html" target="_blank">World Wildlife Fund (WWF) and Biodiversity</a>  
+_Writing samples&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ site.url }}/{{ site.html }}" target="_blank" rel="noopener noreferrer">collection of all essays</a>    
+<a href="{{ site.url }}/{{ site.html }}/lbj.html" target="_blank" rel="noopener noreferrer">LBJ and Nixon: Compare Judicial Confirmation Process</a>  
+<a href="{{ site.url }}/{{ site.html }}/privacy_urlshortening.html" target="_blank" rel="noopener noreferrer">Exploitation of URL Shorteners in Mobile Phishing Attacks</a>    
+<a href="{{ site.url }}/{{ site.html }}/wwf.html" target="_blank" rel="noopener noreferrer">World Wildlife Fund (WWF) and Biodiversity</a>  
 
 _Work Experience_  
 __Ignite Fellow & Ambassador, Teach for America__, Seattle WA, 02/2025 - present  
