@@ -41,7 +41,7 @@ Active Listening, Critical Thinking, Problem Solving, Adaptability, Empathy & Co
 _Skills_  
 Writing, Tutoring, Data Analysis (Excel, Tableau, R), Google Workspace, Microsoft 365, Pencil Spaces     
 
-_Writing samples&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ site.url }}/{{ site.html }}" target="_blank" rel="noopener noreferrer">collection of all essays</a>    
+_Writing samples_ &nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ site.url }}/{{ site.html }}" target="_blank" rel="noopener noreferrer">collection of all essays</a>    
 <a href="{{ site.url }}/{{ site.html }}/lbj.html" target="_blank" rel="noopener noreferrer">LBJ and Nixon: Compare Judicial Confirmation Process</a>  
 <a href="{{ site.url }}/{{ site.html }}/privacy_urlshortening.html" target="_blank" rel="noopener noreferrer">Exploitation of URL Shorteners in Mobile Phishing Attacks</a>    
 <a href="{{ site.url }}/{{ site.html }}/wwf.html" target="_blank" rel="noopener noreferrer">World Wildlife Fund (WWF) and Biodiversity</a>  
