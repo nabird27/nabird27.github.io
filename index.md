@@ -1,7 +1,7 @@
 📍 Seattle, WA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bsreeni7@uw.edu    
 
 __University of Washington__, Seattle, WA&nbsp;&nbsp;&nbsp;&nbsp;2024 - 2028  
-B.A. double major in Political Science and Law, Societies, and Justice (LSJ); minor in Data Science   
+B.A. double major in Law, Societies & Justice (LSJ), and Political Science; minor in Data Science   
 Expected graduation: Autumn 2027 (or Spring 2028)  
 🏅 Annual Dean's List: 2025-2026  
 
