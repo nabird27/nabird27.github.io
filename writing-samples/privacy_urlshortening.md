@@ -123,7 +123,7 @@ Carr, M. (2025, November 19). The 6 URL Shorteners You Didn’t Know Were Helpin
 
 Columbia Law Review. (2024). PLATFORM LIABILITY FOR PLATFORM MANIPULATION - Columbia Law Review. Columbia Law Review. https://columbialawreview.org/content/platform-liability-for-platform-manipulation/  
 
-Das, N. (2026, January 4). Data Privacy & Security Concerns with URL Shorteners | Mind Webs Ventures. Mindwebs. https://mindwebs.org/blog/data-privacy-security-concerns-with-url-shorteners/  
+Das, N. (2026, January 4). Data Privacy & Security Concerns with URL Shorteners &#124; Mind Webs Ventures. Mindwebs. https://mindwebs.org/blog/data-privacy-security-concerns-with-url-shorteners/  
 
 Mehedi, M., Pritom, A., Sanjari, S., Mia, M., Shibli, M., Hossain, M., Ismail, M., & Xu, S. (2026). Short Message Service (SMS) Phishing Attacks and Defenses: A Systematic Review. https://arxiv.org/pdf/2604.11429v1  
 
@@ -133,7 +133,7 @@ Phishing & Security Awareness Glossary. (2010). Bait and Phish.; Bait & Phish. h
 
 Rupy, K., Conley, S., Scott, K., & Laughlin, K. (2023). FCC Publishes Robotexting Report and Order and FNPRM in the Federal Register. Wileyrein. https://www.wiley.law/alert-FCC-Publishes-Robotexting-Report-and-Order-and-FNPRM-in-the-Federal-Register  
 
-SmishGuard: Smishing Protection | iVerify. (2026, June 8). Iverify.io. https://iverify.io/products/smishguard  
+SmishGuard: Smishing Protection &#124; iVerify. (2026, June 8). Iverify.io. https://iverify.io/products/smishguard  
 
 Tamzid. (2026, April 14). 200+ Phishing Statistics (April - 2026). Bright Defense. https://www.brightdefense.com/resources/phishing-statistics/  
 
