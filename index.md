@@ -61,14 +61,14 @@ __Volunteer, Texas Gubernatorial Campaign__, Round Rock TX, Jul/2022 - Dec/2022
 * Facilitated voting rights workshops explaining voting information to the public. Organized voter registration initiatives, early voting drives, and get-out-the-vote campaigns to encourage participation.  
 * Managed office inventory and submitted weekly reports to campaign officials to communicate supply needs and support operational planning.  
 
-__Staff Member, Sagora Senior Living (Parkwood Meadows)__, Round Rock TX, 4/2022 - 7/2022
+__Staff Member, Sagora Senior Living (Parkwood Meadows)__, Round Rock TX, Apr/2022 - Jul/2022
 * Addressed residents’ questions and concerns with attentive listening and compassionate communication to foster connection and respect.  
 * Assisted residents with meal orders and dining needs to provide responsive, personalized service during mealtimes.  
 * Prepared the dining hall for meal service and helped in post-service cleanup to maintain an orderly, welcoming dining environment for the next service.  
 
 _Extracurricular_  
-__Women in Law Society__, Member, 10/2025 - present   
-__Delta Kappa Delta Sorority__, Nu Chapter, Member, 10/2025 - present   
-__Resident Council Students Association__, Council Member, 10/2024 - 6/2025   
+__Women in Law Society__, Member, Oct/2025 - present   
+__Delta Kappa Delta Sorority__, Nu Chapter, Member, Oct/2025 - present   
+__Resident Council Students Association__, Council Member, Oct/2024 - Jun/2025   
 
 ---
