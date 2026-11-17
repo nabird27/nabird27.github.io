@@ -35,18 +35,15 @@ Expected graduation: Autumn 2027 (or Spring 2028)
 
 _Certifications:_&nbsp;&nbsp;<a href="https://www.credential.net/5905656d-7718-4e26-86be-853017944dfa#acc.MiutFVUE" target="_blank" rel="noopener noreferrer">Data Analysis using Excel</a>  
 
-_Strengths_  
-Active Listening, Critical Thinking, Problem Solving, Adaptability, Empathy and Communication  
+_Strengths_: Active Listening, Critical Thinking, Problem Solving, Adaptability, Empathy and Communication  
 
-_Skills_  
-Writing, Tutoring, Data Analysis (Excel, Tableau, R), Google Workspace, Microsoft 365, Pencil Spaces     
+_Skills_: Writing, Tutoring, Data Analysis (Excel, Tableau, R), Google Workspace, Microsoft 365, Pencil Spaces   
 
 _Writing samples_  
-  
+<a href="{{ site.url }}/{{ site.html }}" target="_blank" rel="noopener noreferrer">Collection of all Essays</a>  
 <a href="{{ site.url }}/{{ site.html }}/lbj.html" target="_blank" rel="noopener noreferrer">LBJ and Nixon: Compare Judicial Confirmation Process</a>  
 <a href="{{ site.url }}/{{ site.html }}/privacy_urlshortening.html" target="_blank" rel="noopener noreferrer">Exploitation of URL Shorteners in Mobile Phishing Attacks</a>    
-<a href="{{ site.url }}/{{ site.html }}/copenhagen.html" target="_blank" rel="noopener noreferrer">Team Report: Effects of Bicycle Infrastructure on Copenhagen's Air Quality</a>  
-<a href="{{ site.url }}/{{ site.html }}" target="_blank" rel="noopener noreferrer">Collection of all Essays</a>  
+<a href="{{ site.url }}/{{ site.html }}/copenhagen.html" target="_blank" rel="noopener noreferrer">Team Report: Effects of Bicycle Infrastructure on Copenhagen's Air Quality</a>    
 
 _Work Experience_  
 __Ignite Fellow & Ambassador, Teach for America__, Seattle WA, Feb/2025 - present  
