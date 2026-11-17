@@ -36,36 +36,38 @@ Expected graduation: Autumn 2027 (or Spring 2028)
 _Certifications:_&nbsp;&nbsp;<a href="https://www.credential.net/5905656d-7718-4e26-86be-853017944dfa#acc.MiutFVUE" target="_blank" rel="noopener noreferrer">Data Analysis using Excel</a>  
 
 _Strengths_  
-Active Listening, Critical Thinking, Problem Solving, Adaptability, Empathy & Communication  
+Active Listening, Critical Thinking, Problem Solving, Adaptability, Empathy and Communication  
 
 _Skills_  
 Writing, Tutoring, Data Analysis (Excel, Tableau, R), Google Workspace, Microsoft 365, Pencil Spaces     
 
-_Writing samples_ &nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ site.url }}/{{ site.html }}" target="_blank" rel="noopener noreferrer">collection of all essays</a>    
+_Writing samples_  
+  
 <a href="{{ site.url }}/{{ site.html }}/lbj.html" target="_blank" rel="noopener noreferrer">LBJ and Nixon: Compare Judicial Confirmation Process</a>  
 <a href="{{ site.url }}/{{ site.html }}/privacy_urlshortening.html" target="_blank" rel="noopener noreferrer">Exploitation of URL Shorteners in Mobile Phishing Attacks</a>    
-<a href="{{ site.url }}/{{ site.html }}/wwf.html" target="_blank" rel="noopener noreferrer">World Wildlife Fund (WWF) and Biodiversity</a>  
+<a href="{{ site.url }}/{{ site.html }}/copenhagen.html" target="_blank" rel="noopener noreferrer">Team Report: Effects of Bicycle Infrastructure on Copenhagen's Air Quality</a>  
+<a href="{{ site.url }}/{{ site.html }}" target="_blank" rel="noopener noreferrer">Collection of all Essays</a>  
 
 _Work Experience_  
-__Ignite Fellow & Ambassador, Teach for America__, Seattle WA, 02/2025 - present  
-* Delivered a 12-week intensive SAT Reading boot camp for 10 Seagoville High School students. Designed personalized lessons in evidence-based reading and vocabulary in context; raised practice scores by an average of 80 points through timed drills, test-taking strategies, and error analysis.
-* Tutored 4th-grade students for 50 hours per quarter, contributing to an average 20% improvement on standardized tests and a 95% success rate in meeting academic goals set by the program leader.
-* Adapted lesson plans to students’ individual learning needs, providing tailored instruction and earning a 90% satisfaction rating from students and parents. 
+__Ignite Fellow & Ambassador, Teach for America__, Seattle WA, Feb/2025 - present  
+* Coordinated campus outreach through student organizations, classroom announcements, informational events, and digital communications to increase awareness of the program and connect prospective fellows with the Ignite Fellowship.  
+* Designed and delivered a 12-week SAT Reading boot camp for 10 high school students, increasing practice scores by an average of 80 points through error analysis, personalized lessons, test-taking strategies and timed drills.  
+* Delivered 50 hours of fourth-grade tutoring per quarter, contributing to an average 20% improvement on standardized tests and a 95% success rate in meeting the program goals.  
+* Adapted lesson plans, and tailored instruction to individual learning needs, earning a 90% satisfaction rating from students and parents.  
 
-__Volunteer, Hope Alliance__, Austin TX, 7/2023 - 6/2024
-* Served as a Texas Office of the Attorney General–certified advocate for survivors of sexual violence.
-* Listened to people affected by domestic abuse and sexual violence, explained available resources and legal options, and maintained a calm, professional approach.
-* Strengthened skills in empathy, emotional regulation, and resilience through survivor-centered advocacy. 
+__Volunteer, Hope Alliance__, Austin TX, Jul/2023 - Jun/2024
+* As a Texas OAG-certified volunteer, assisted legal advocates in providing available resources and legal options to individuals affected by domestic abuse and sexual violence, communicating clearly and compassionately to support informed decision-making. 
+* Applied active listening and emotional regulation during sensitive conversations to maintain a calm, respectful, and professional environment for survivors.    
 
-__Volunteer, Texas Gubernatorial Campaign__, Williamson County TX, 7/2022 - 5/2023  
-* Setup Round Rock field office, and recruited volunteers to campaign in Williamson County.  
-* Facilitated voting rights workshops, get out the vote, voter registration and early voting drives.  
-* Maintained office logistics and reported weekly inventory reports to the campaign officials.  
-* Organized campaign meetings with voters in Williamson County, Texas.  
+__Volunteer, Texas Gubernatorial Campaign__, Round Rock TX, Jul/2022 - Dec/2022 
+* Helped establish the Round Rock field office, coordinating setup and office logistics to support daily campaign operations. Recruited volunteers to support campaign activities across Williamson County.  
+* Facilitated voting rights workshops explaining voting information to the public. Organized voter registration initiatives, early voting drives, and get-out-the-vote campaigns to encourage participation.  
+* Managed office inventory and submitted weekly reports to campaign officials to communicate supply needs and support operational planning.  
 
 __Staff Member, Sagora Senior Living (Parkwood Meadows)__, Round Rock TX, 4/2022 - 7/2022
-* Listened attentively to residents and responded thoughtfully and compassionately to their questions and concerns, helping foster connection and respect.
-* Prepared the dining hall for meal service and cleaned up afterward; assisted residents with meal orders and other needs during mealtimes.
+* Addressed residents’ questions and concerns with attentive listening and compassionate communication to foster connection and respect.  
+* Assisted residents with meal orders and dining needs to provide responsive, personalized service during mealtimes.  
+* Prepared the dining hall for meal service and helped in post-service cleanup to maintain an orderly, welcoming dining environment for the next service.  
 
 _Extracurricular_  
 __Women in Law Society__, Member, 10/2025 - present   
