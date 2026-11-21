@@ -1,6 +1,6 @@
 ---
 layout: default
-title: wwf
+title: interpretation
 ---
 
 ## Apocalypse and Interpretation  
