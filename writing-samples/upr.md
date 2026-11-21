@@ -1,6 +1,6 @@
 ---
 layout: default
-title: wwf
+title: upr
 ---
 
 ## The Universal Periodic Review: Progress or Performative?
