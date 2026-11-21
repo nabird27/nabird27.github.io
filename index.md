@@ -45,7 +45,7 @@ _Writing samples_
 <a href="{{ site.url }}/{{ site.html }}/privacy_urlshortening.html" target="_blank" rel="noopener noreferrer">Exploitation of URL Shorteners in Mobile Phishing Attacks</a>    
 <a href="{{ site.url }}/{{ site.html }}/copenhagen.html" target="_blank" rel="noopener noreferrer">Team Report: Effects of Bicycle Infrastructure on Copenhagen's Air Quality</a>    
 
-_Work Experience_  
+_Experience_  
 __Ignite Fellow & Ambassador, Teach for America__, Seattle WA, Feb/2025 - present  
 * Coordinate campus outreach through student organizations, classroom announcements, informational events, and digital communications to build awareness of the Ignite Fellowship and connect with prospective applicants.  
 * Designed and delivered a 12-week SAT Reading boot camp for 10 high school students, translating error analysis into personalized lessons and strategies that helped increase practice scores by an average of 80 points.  
