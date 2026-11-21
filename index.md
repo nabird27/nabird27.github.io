@@ -50,7 +50,7 @@ __Ignite Fellow & Ambassador, Teach for America__, Seattle WA, Feb/2025 - presen
 * Coordinate campus outreach through student organizations, classroom announcements, informational events, and digital communications to build awareness of the Ignite Fellowship and connect with prospective applicants.  
 * Designed and delivered a 12-week SAT Reading boot camp for 10 high school students, translating error analysis into personalized lessons and strategies that helped increase practice scores by an average of 80 points.  
 * Deliver 50 hours of fourth-grade tutoring per quarter, contributing to an average 20% improvement on standardized tests and a 95% success rate in meeting program goals.  
-* Adapt instructional explanations and lesson plans to individual learning needs, earning a 90% satisfaction rating from students and parents.  
+* Adapt teaching and lesson plans to individual learning needs, earning a 90% satisfaction rating from students and parents.  
 
 __Volunteer, Hope Alliance__, Austin TX, Jul/2023 - Jun/2024  
 * Assisted legal advocates in explaining available resources and legal options to people affected by domestic abuse and sexual violence as a Texas OAG-certified volunteer.  
