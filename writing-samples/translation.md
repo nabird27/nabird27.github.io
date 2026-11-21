@@ -3,7 +3,7 @@ layout: default
 title: machine and human translation
 ---
 
-A Comparative Analysis of Collaborative Human and Machine Translation in Technical Documentation and Literature
+## A Comparative Analysis of Collaborative Human and Machine Translation in Literature and Technical Documentation
 
 > 2007 words, 6-7 pages
 
