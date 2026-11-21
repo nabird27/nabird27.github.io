@@ -1,8 +1,8 @@
 📍 Seattle, WA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bsreeni7@uw.edu    
 
 __University of Washington__, Seattle, WA&nbsp;&nbsp;&nbsp;&nbsp;2024 - 2028  
-B.A. double major in Law, Societies & Justice (LSJ), and Political Science; minor in Data Science   
-Expected graduation: Autumn 2027 (or Spring 2028)  
+B.A. double major in Law, Societies & Justice (LSJ) and Political Science; minor in Data Science   
+Expected to graduate in Spring 2028  
 🏅 Annual Dean's List: 2025-2026  
 
 <p style="margin-bottom: 0;"><em>Coursework</em></p>
@@ -47,24 +47,21 @@ _Writing samples_
 
 _Work Experience_  
 __Ignite Fellow & Ambassador, Teach for America__, Seattle WA, Feb/2025 - present  
-* Coordinated campus outreach through student organizations, classroom announcements, informational events, and digital communications to increase awareness of the program and connect prospective fellows with the Ignite Fellowship.  
-* Designed and delivered a 12-week SAT Reading boot camp for 10 high school students, increasing practice scores by an average of 80 points through error analysis, personalized lessons, test-taking strategies and timed drills.  
-* Delivered 50 hours of fourth-grade tutoring per quarter, contributing to an average 20% improvement on standardized tests and a 95% success rate in meeting the program goals.  
-* Adapted lesson plans, and tailored instruction to individual learning needs, earning a 90% satisfaction rating from students and parents.  
+* Coordinate campus outreach through student organizations, classroom announcements, informational events, and digital communications to build awareness of the Ignite Fellowship and connect with prospective applicants.  
+* Designed and delivered a 12-week SAT Reading boot camp for 10 high school students, translating error analysis into personalized lessons and strategies that helped increase practice scores by an average of 80 points.  
+* Deliver 50 hours of fourth-grade tutoring per quarter, contributing to an average 20% improvement on standardized tests and a 95% success rate in meeting program goals.  
+* Adapt instructional explanations and lesson plans to individual learning needs, earning a 90% satisfaction rating from students and parents.  
 
-__Volunteer, Hope Alliance__, Austin TX, Jul/2023 - Jun/2024
-* As a Texas OAG-certified volunteer, assisted legal advocates in providing available resources and legal options to individuals affected by domestic abuse and sexual violence, communicating clearly and compassionately to support informed decision-making. 
-* Applied active listening and emotional regulation during sensitive conversations to maintain a calm, respectful, and professional environment for survivors.    
+__Volunteer, Hope Alliance__, Austin TX, Jul/2023 - Jun/2024  
+* Assisted legal advocates in explaining available resources and legal options to people affected by domestic abuse and sexual violence as a Texas OAG-certified volunteer.  
+* Used active listening and clear, compassionate communication to support informed decision-making and maintain a respectful environment during sensitive conversations.  
 
 __Volunteer, Texas Gubernatorial Campaign__, Round Rock TX, Jul/2022 - Dec/2022 
-* Helped establish the Round Rock field office, coordinating setup and office logistics to support daily campaign operations. Recruited volunteers to support campaign activities across Williamson County.  
-* Facilitated voting rights workshops explaining voting information to the public. Organized voter registration initiatives, early voting drives, and get-out-the-vote campaigns to encourage participation.  
-* Managed office inventory and submitted weekly reports to campaign officials to communicate supply needs and support operational planning.  
+* Facilitated voting rights workshops, explaining voting information to the public and supporting voter registration, early voting, and get-out-the-vote initiatives.  
+* Recruited volunteers across Williamson County and helped establish the Round Rock field office, coordinating setup and logistics for daily campaign operations.  
 
 __Staff Member, Sagora Senior Living (Parkwood Meadows)__, Round Rock TX, Apr/2022 - Jul/2022
-* Addressed residents’ questions and concerns with attentive listening and compassionate communication to foster connection and respect.  
-* Assisted residents with meal orders and dining needs to provide responsive, personalized service during mealtimes.  
-* Prepared the dining hall for meal service and helped in post-service cleanup to maintain an orderly, welcoming dining environment for the next service.  
+* Responded to residents’ questions and dining needs with attentive listening and personalized service, helping maintain a welcoming environment.   
 
 _Extracurricular_  
 __Women in Law Society__, Member, Oct/2025 - present   
